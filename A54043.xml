@@ -1,0 +1,1200 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Naked truth, or, Truth nakedly manifesting itself in several particulars for the removing of hinderances out of the way of the simple-hearted, that they may come to true knowledge, life, liberty, peace and joy in the Lord, through the vertue and power of his precious truth, revealed and working in them : given forth by way of question and answer : whereunto are added, some experiences, with some Scriptures very sweet, and necessary to be experienced in the Gospel-state : as also, a few words concerning the true Christ, and a few words in the bowels of tender love and good will to my native country / by a long mourner and traveller after, but as length an happy experiencer of the truth, as it is in Jesus, Isaac Pennington.</title>
+            <author>Penington, Isaac, 1616-1679.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 156 KB of XML-encoded text transcribed from 64 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54043</idno>
+            <idno type="STC">Wing P1179</idno>
+            <idno type="STC">ESTC R39811</idno>
+            <idno type="EEBO-CITATION">18493626</idno>
+            <idno type="OCLC">ocm 18493626</idno>
+            <idno type="VID">107901</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54043)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107901)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1640:39)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Naked truth, or, Truth nakedly manifesting itself in several particulars for the removing of hinderances out of the way of the simple-hearted, that they may come to true knowledge, life, liberty, peace and joy in the Lord, through the vertue and power of his precious truth, revealed and working in them : given forth by way of question and answer : whereunto are added, some experiences, with some Scriptures very sweet, and necessary to be experienced in the Gospel-state : as also, a few words concerning the true Christ, and a few words in the bowels of tender love and good will to my native country / by a long mourner and traveller after, but as length an happy experiencer of the truth, as it is in Jesus, Isaac Pennington.</title>
+                  <author>Penington, Isaac, 1616-1679.</author>
+               </titleStmt>
+               <extent>119, [5] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London printed :</pubPlace>
+                  <date>1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errata: p. [5] at end.</note>
+                  <note>Errors in paging: p. 46-47 in reversed order of numbering.</note>
+                  <note>Imperfect: tightly bound and faded, with slight loss of print.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Doctrines.</term>
+               <term>Christian life.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:107901:1" rendition="simple:additions"/>
+            <p>Naked Truth; OR, TRUTH nakedly manifeſt<g ref="char:EOLhyphen"/>ing it ſelf in ſeveral Particulars, for the removing of Hinderances out of the way of the Simple-hearted, that they may come to true Knowledge, Life, Liberty, Peace and Joy in the Lord, through the vertue and power of his precious Truth, revealed and working in them.</p>
+            <p>Given forth by way of <hi>Queſtion</hi> and <hi>Anſwer.</hi>
+            </p>
+            <p>
+               <hi>Whereunto are added,</hi> ſome Experiences, with ſome Scriptures very ſweet, and neceſſary to be experienced in the Goſpel-ſtate.</p>
+            <p>
+               <hi>As alſo,</hi> A few words concerning the True Chriſt; and a few words in the Bowels of tender love and good-will to my native Country.</p>
+            <p>By a long Mourner and Traveller after, but at length an happy Experiencer of the Truth, as it is in Jeſus. </p>
+            <p>
+               <hi>ISAAC PENINGTON.</hi>
+            </p>
+            <q>Bleſſed are the eyes, which ſee the things that ye ſee. <bibl>
+                  <hi>Luke 10.23.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed in the Year, 1674.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:107901:2"/>
+            <pb facs="tcp:107901:2"/>
+            <head>The Preface.</head>
+            <p>TRue Knowledg, and true Experience, eſpecially concerning things of neceſ<g ref="char:EOLhyphen"/>ſity and great concern to the Soul, is very precious. As to know the true Foundation, the Corner-Stone, which God layes in his Spiritual Sion; and the Heavenly Jeru<g ref="char:EOLhyphen"/>ſalem, which is the Mother of all that are born of God; and the gathering out of the ſpirit of this World (with the vanity and falſhood thereof) into God's Spirit; which is Truth and no Lye; and the building up of the holy Temple, in which God appears and is worſhipped, and the heavenly Com<g ref="char:EOLhyphen"/>munion with the Father and Son, in the one pure Light, which ſhines from them into the heart; and the one Faith, the one Circum<g ref="char:EOLhyphen"/>ciſion, the one Baptiſm, the one holy Moun<g ref="char:EOLhyphen"/>tain, the one feaſt of ſat things made there<g ref="char:EOLhyphen"/>on,
+<pb facs="tcp:107901:3"/>
+the one Water of Life, the one Bread, the one Cup of Salvation, <hi>&amp;c.</hi> Now the things of the Kingdom, are all at the diſ<g ref="char:EOLhyphen"/>poſe of the King thereof. To him all Po<g ref="char:EOLhyphen"/>wer is given, in him are hid all the Trea<g ref="char:EOLhyphen"/>ſures of Wiſdom and Knowledge, he hath life in himſelf, and he hath life to diſpoſe of and diſpenſe to his. He gives the true Knowledge, which is Life Eternal; He gives Repentance and Remiſſion of Sins. He teacheth to believe in the Father, and he giveth Faith alſo. He is the Shepherd of the Sheep, who by his Voice quickeneth and maketh alive, and leadeth and preſer<g ref="char:EOLhyphen"/>veth and nouriſheth up to Life eternal. Therefore whoever will underſtand aright, muſt receive underſtanding from him: And whoever will repent aright, muſt re<g ref="char:EOLhyphen"/>ceive repentance from him: And whoever will believe aright, muſt receive Faith from him: And whoever will hear and ſee a<g ref="char:EOLhyphen"/>right, muſt receive an ear and eye from him: and whoever will come unto him and receive him, muſt witneſs that new heart forming or formed in him, wherewith and
+<pb facs="tcp:107901:3"/>
+whereby he is received. Men greatly mi<g ref="char:EOLhyphen"/>ſtake and erre about the Goſpel-knowledge and Religion, by beginning therein without the Goſpel-Spirit and Power.</p>
+            <p>Therefore, that man that would not be deceived, and loſe his Soul for ever; let him take heed how he begins, how he ſtands, and how he proceeds in his Religion. The Jews-ſtate ſtood in the Revelation of God's Spirit and Power outwardly: and the ſtate of the Chriſtians, the New-Covenant-ſtate ſtands in the revelation of Gods Spirit and Power inwardly. For none can beget a new birth to God inwardly, but his own Spirit and Power, working inwardly in the heart. Therefore thou that wouldeſt live with God for ever, and not periſh from the Preſence and Glory of his Power, mind theſe three things. Firſt, God's inward viſiting thee, and making a real change in thee. I do not mean a change in thy mind, from one noti<g ref="char:EOLhyphen"/>on to another: but a change in thy heart, from one nature and ſpirit to another. This is the great Work, which nothing but the mighty Power of God, which raiſed <hi>Jeſus</hi>
+               <pb facs="tcp:107901:4"/>
+from the dead, can effect in the hearts of the children of men! Now that this may be wrought out in thee, wait for the ap<g ref="char:EOLhyphen"/>pearing and working of that Power, which (by its appearing and working) doth effect it daily more and more, in theſe that unite to it, and give up to its operations. O wait to feel the Power begetting ſomewhat of its own nature in thee, leavening thee into its nature by the pure heavenly leaven, where with God waits to leaven thy heart. Thu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> feel thy beginning from the true Root, from the holy Principle, from the Seed of th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Kingdom: and then wait to feel that grows up in thee, and to grow up therefrom: tha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as the beginning is pure, ſo the growth may be pure alſo. For after God hath viſite<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thee, and begotten ſomewhat in thee, an<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> leavened thee in ſome meaſure; ſo th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> there is true life, true ſenſe, true hunger<g ref="char:EOLunhyphen"/>ings, true breathings after the Lord, an<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his Righteouſneſs, after the Fountain <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> living Waters: then (in the next place mind and wait to learn of the true Teache<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> how to come to the true Waters, that th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb facs="tcp:107901:4"/>
+mayſt drink thereof, and of no dirty puddle, of thy own or any others forming. Where are theſe Waters diſpenſed, and where are they to be found? why, in the New-Cove<g ref="char:EOLhyphen"/>nant, which God makes with the hungry and thirſty Souls, as they come to the Shep<g ref="char:EOLhyphen"/>herd, and hear his Voice, and learn of him, and follow him. Therefore, thou muſt wait to diſtinguiſh Spirits, and the knocks of Spirits in thy own heart. Thou muſt know when the Shepherd knocks, and when the ſtranger knocks: and let in the Shepherd when he knocks; and not let in the ſtran<g ref="char:EOLhyphen"/>ger when he knocks. Thus by knowing him, enclining thine ear to him, and hear<g ref="char:EOLhyphen"/>ing his voice; thou comeſt to have the ever<g ref="char:EOLhyphen"/>laſting Covenant made with thy Soul, even the ſure Mercies of <hi>David;</hi> wherein the union with God is ſure, the Teacher ſure, never more to be removed from thee; the fear which God puts into the heart ſure; the Law of the new life ſure, being ſo writ<g ref="char:EOLhyphen"/>ten in thy heart by the finger of Gods Spi<g ref="char:EOLhyphen"/>rit, as none can blot out; the love of God ſure, his preſervation ſure, the inheritance
+<pb facs="tcp:107901:5"/>
+of life ſure. O ſweet Covenant! O holy Covenant! O bleſſed Covenant! and bleſ<g ref="char:EOLhyphen"/>ſed are all thoſe Souls with whom God makes this Covenant, and who are kept by him in the ſenſe and enjoyment of it!</p>
+            <p>Now, laſtly; After God hath made this Covenant with thee, and ſpoken peace to thee, and given thee of the Power, Righ<g ref="char:EOLhyphen"/>teouſneſs, and joy of the Kingdom, and ſet the holy Hedge of his Power and Wall of Salvation about thee; thou muſt take heed of going forth after any luſt, after any deſire of the fleſh, after any temptation of the ene<g ref="char:EOLhyphen"/>my: thou muſt keep within the holy limits, and not touch any dead or unclean thing, leſt thou be defiled, and ſo in degree ſepa<g ref="char:EOLhyphen"/>rated from him who is pure.</p>
+            <p>The occaſion of what follows was briefly thus.</p>
+            <p>There was a controverſie between me and another, about many of theſe things; to<g ref="char:EOLhyphen"/>wards whom my love was in a travel, And having a ſenſe on my heart, that the enemy makes uſe of the wrong apprehenſions and miſtakes he begets in mens minds about
+<pb facs="tcp:107901:5"/>
+theſe things, contrary to the true knowledg and experience, which God giveth to the Children which are born of the Heavenly Womb, who indeed alone can rightly plead for and juſtifie their Mother, in this day of great ſtrife and contention about the Kingdom and right Heir thereof; I ſay, having this ſenſe on my heart, and theſe things naturally ſpringing up and opening in me upon this occaſion, I was drawn in love, and in the motion of life, thus to give them forth to others, hoping that the Lord may thereby open the minds of ſome to<g ref="char:EOLhyphen"/>wards, and confirm the minds of others in the ſenſe and belief of the Truth, and the inward manifeſtation of his Spirit, which diſcovers and ſtrives againſt the darkneſs, luſts, and corruptions in them. The Lord give People the ſenſe of the ſtrivings and reproofs of his holy Spirit inwardly in their hearts, and joyn their ſpirits thereto, that they may receive Light, Life, Vertue and Strength from his holy Spirit, and thereby witneſs the overcoming and keeping under the enemy of their ſouls, that they may know
+<pb facs="tcp:107901:6"/>
+what it is, to have the ſeed of the Woman bruiſe the Serpents head in their own par<g ref="char:EOLhyphen"/>ticulars, that ſo the holy Child Jeſus may be exalted (his Horn exalted in them) and he may reign and exerciſe his Government in them, and they may become Kings and Prieſts to God, and reign in him, over all that his Power is ordained to break and keep under, yea utterly conſume and deſtroy, in the hearts of thoſe that ſubmit themſelves willingly to him, and walk in the Light and Leadings of his holy Spirit, <hi>Amen.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="11" facs="tcp:107901:6"/>
+            <head>NAKED TRUTH; OR, Truth manifeſting it ſelf in ſe<g ref="char:EOLhyphen"/>veral Particulars, for the removing of Hinderances, <hi>&amp;c.</hi> Given forth by way of <hi>Queſtion</hi> and <hi>Anſwer.</hi>
+            </head>
+            <div n="1" type="part">
+               <head>
+                  <hi>I.</hi> Concerning underſtanding the Holy Scrip<g ref="char:EOLhyphen"/>tures truly and aright.</head>
+               <p>Queſt.</p>
+               <p>
+                  <hi>WHether the Scriptures can be underſtood aright, without the Light of God's holy Spirit ſhining inwardly in the heart, and giving the true underſtanding of them?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> No, not poſſibly: for as the out<g ref="char:EOLhyphen"/>ward eye cannot poſſibly ſee, without the ſhi<g ref="char:EOLhyphen"/>ning of ſome outward Light; no more can the inward Eye ſee, without the ſhining of the inward Light. God who commanded Light to ſhine out of darkneſs, cauſeth the Light of his Spirit to ſhine in the hearts of People, ac<g ref="char:EOLhyphen"/>cording to his holy pleaſure; and thereby they come to ſee. God ſeeth all things in his own
+<pb n="12" facs="tcp:107901:7"/>
+Light, in the light of his own pure, eternal Spirit: and in his Light do the Children of Light ſee Light. The things of Gods Kingdom are holy Myſteries, and the words which he ſpeaks concerning thoſe holy Myſteries, none can underſtand, but as he pleaſeth to open and reveal them. He hath given us an underſtanding to know him that is true, 1 Joh. 5.20. <hi>The Inſpiration of the Almighty giveth underſtanding</hi> (Job 32.8.) without which Man is dead, and can neither hear nor ſee, nor underſtand any of the things of God's Kingdom.</p>
+            </div>
+            <div n="2" type="part">
+               <head>
+                  <hi>II.</hi> Concerning the Illuminating Spirit, and Sanctifying Spirit.</head>
+               <p>Queſt. <hi>Whether the Illuminating and Sancti<g ref="char:EOLhyphen"/>fying Spirit be one and the ſame Spirit or no? Becauſe it is affirmed by ſome (and written by one to me as a ſound diſtinction of Divines, which diſtinction, he ſaith, he hath a mind I ſhould learn) that there is a Spirit of Sanctification, and that is peculiar to the Godly; and there is a Spirit illuminating, and that is oft vouchſafed to the wicked, as it was to</hi> Balaam.</p>
+               <p>
+                  <hi>Anſw.</hi> The Spirit which illuminateth and the Spirit which ſanctifieth, is one and the ſame Spirit: and the illumination of the Spirit is in order unto Sanctification. The ſame Light
+<pb n="13" facs="tcp:107901:7"/>
+which diſcovereth the Darkneſs, alſo chaſeth away the Darkneſs, as it is received and ſubject<g ref="char:EOLhyphen"/>ed to, and purifieth the mind: for the Light hath not only a property of enlightening, but alſo of cleanſing and ſanctifying. And the rea<g ref="char:EOLhyphen"/>ſon why Men are not changed, juſtified and ſanctified in and by the Light, is becauſe they love it not, and bring not their hearts and deeds to it, and ſo it is their reprover and condemner, and not their Juſtifier and Sanctifier. But the ſame Spirit, Light and Life, which Enlighten<g ref="char:EOLhyphen"/>eth, alſo Sanctifieth; and there is not another.</p>
+            </div>
+            <div n="3" type="part">
+               <head>
+                  <hi>III.</hi> Concerning the holy Spirit of God, and the holy Scriptures.</head>
+               <p>Queſt. <hi>Whether they be alwayes joyned; or ſome may have the Spirit, who have not the Scriptures; and ſome may have the Scriptures, who have not the Spirit.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> The holy Spirit of God, and the ho<g ref="char:EOLhyphen"/>ly Scriptures, are not always joyned together; for ſome in the dark corners of the Earth may be viſited by the Spirit, become ſenſible of the Spirit, and receive the Spirit, who never heard of the Scriptures; and many may have the Scriptures, and yet be very ignorant of, and ſtrangers to Gods holy Spirit, as the Jews were,
+<pb n="14" facs="tcp:107901:8"/>
+who had them read in their Synagogues every Sabbath day, and yet Chriſt told them, <hi>you neither know the Scriptures, nor the Power of God.</hi>
+               </p>
+            </div>
+            <div n="4" type="part">
+               <head>
+                  <hi>IV.</hi> Concerning the Law of the Lord which is perfect, and which converts the Soul.</head>
+               <p>Queſt. <hi>What is the Law of the Lord which is perfect, and converts the Soul? is it the out<g ref="char:EOLhyphen"/>ward Law or Writing in the Letter, or the in<g ref="char:EOLhyphen"/>ward Law and Writing in the Spirit?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> No Man is, or ever was, or ever can be converted to God from the inward Law of Sin and Death, but by the inward Law of Life and Righteouſneſs written in his heart. And I am ſure that Law is perfect. The New-Covenant is perfect, and the Law thereof per<g ref="char:EOLhyphen"/>fect, the Law of the Spirit of Life in Chriſt Je<g ref="char:EOLhyphen"/>ſus perfect, which converts the mind to Chriſt the Righteouſneſs of God, and ſets it free from the Law of Sin and Death. And <hi>David</hi> was a ſpiritual Man, and knew the inward Covenant, and the inward creating of the heart a new, and Gods holy and free Spirit, and the Law and Teſtimony thereof. I will grant a great deal to the Letter and miniſtration outward; but I muſt attribute more to the inward; or elſe Gods
+<pb n="15" facs="tcp:107901:8"/>
+Light, and the holy Experience which he hath given me, will condemn me. And as the Jew outward had the Law, and Teſtimony and Statutes outward: ſo I am ſure the true Jew, the Jew inward hath the Law, and Teſtimony and Statutes inward, written in his heart by the finger of Gods Spirit; yea and the ſame Spirit put within him, to cauſe him to keep this Law, and the holy Teſtimony, Statutes and Judg<g ref="char:EOLhyphen"/>ments of the Lord: and the ſpiritual <hi>Jacob</hi> and <hi>Iſrael</hi> of God, in this the day of their Re<g ref="char:EOLhyphen"/>demption and Salvation from on high, do fol<g ref="char:EOLhyphen"/>low the Lamb whitherſoever he goes, and walk in the Light of the Lord.</p>
+            </div>
+            <div n="5" type="part">
+               <head>
+                  <hi>V.</hi> Concerning <hi>David's</hi> longings, expreſt in <hi>Pſal. 42. Pſal. 43.</hi> and <hi>Pſal. 119.</hi> and other places.</head>
+               <p>Queſt. <hi>Were</hi> Davids <hi>longings more after the Law outward, or after the Law and Light of Gods Spirit inward?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> David was a man after Gods own heart, a man that knew an inward and clean heart of Gods creating, and knew the free Spi<g ref="char:EOLhyphen"/>rit of the Lord, and the freſh ſpringing Life thereof, and the leadings of the pure living Truth inwardly in his heart, and this was it
+<pb n="16" facs="tcp:107901:9"/>
+he moſt eſpecially prized and longed after. <hi>Cre<g ref="char:EOLhyphen"/>ate in me a clean heart, O God, and renew a right ſpirit within me, and take not they holy ſpirit from me,</hi> &amp;c. ſaith he (<hi>Pſal.</hi> 51.10, 11.) after his fall, ſhewing what he had been acquainted with before, and what he now (God having touched his ſpirit afreſh) began to long after again. And, ſaith he, in another place, <hi>O ſend out thy Light and thy Truth; let them lead me, let them bring me unto thy Hill and to thy Ta<g ref="char:EOLhyphen"/>bernacles,</hi> Pſa. 43.3. O the ſweetneſs of Light within, Truth within, O the precious leadings and drawings thereof; which where once felt, upon a freſh and tender remembrance thereof, cannot but be longed after again!</p>
+            </div>
+            <div n="6" type="part">
+               <head>
+                  <hi>VI.</hi> Concerning the Sun, or Fountain of Spiri<g ref="char:EOLhyphen"/>tual Light.</head>
+               <p>Queſt. <hi>Whether the holy Scriptures, or writ<g ref="char:EOLhyphen"/>ten Teſtimonies be the Sun or Fountain, and the Light within but a ray or ſtream from them? (as is affirmed by my Antagoniſt.)</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> It is juſt quite contrary: for the holy Men ſpake the holy words, from the inward Light and quickning Life of Gods Spirit within them: ſo that that was the Fountain in them, and is ſo ſtill. <hi>With thee is the Fountain of Life,
+<pb n="17" facs="tcp:107901:9"/>
+And he that believeth, as the Scriptures have ſaid, out of his belly ſhall flow rivers of living water. This ſpake he of the Spirit</hi> (Joh. 7.39.) that's the Fountain. <hi>The water that I ſhall give him, ſhall be in him a Well of Water ſpringing up into everlaſting Life,</hi> Joh. 4.14. Who eſteems &amp; honours the Scriptures aright? He that believes their Teſtimony, comes to Chriſt, and makes his Spirit Light and Life all: or he that ſets the Scriptures in the ſtead of that Word of Life which they came from, teſtifie of, and point men to, as the fountain and foundation of Life and Salvation to all mankind?</p>
+            </div>
+            <div n="7" type="part">
+               <head>
+                  <hi>VII.</hi> Concerning the Words being a Fire and a Hammer, to burn up the Chaff and break the Rocks in pieces.</head>
+               <p>Queſt. <hi>Is the Word which is a fire and ham<g ref="char:EOLhyphen"/>mer, the Teſtimonies and Declarations of the holy Scriptures without, or the Word nigh in the mouth and heart?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> That which I have felt hammering inwardly, that which I have felt burning in<g ref="char:EOLhyphen"/>wardly (unquenchably, as the mind has been kept to it) has been the Word of Life it ſelf, from which the good words and holy teſtimo<g ref="char:EOLhyphen"/>nies proceed. That which does the work in
+<pb n="18" facs="tcp:107901:10"/>
+the inward Jew, is the inward Miniſtration of the inward Covenant, the appearance of God there: He is the conſuming Fire, he is the Spi<g ref="char:EOLhyphen"/>rit of Judgment and Burning, who by his holy flamings inwardly, burns up the filth of the daughter of <hi>Sion.</hi> A man may be exerciſed in the letter all his dayes, and yet witneſs no<g ref="char:EOLhyphen"/>thing of this inwardly in Truth and Righte<g ref="char:EOLhyphen"/>ouſneſs: but he whom the Spirit of Judgment and Burning inwardly comes nigh, and whoſe fleſh is kept in that holy furnace, it will be conſumed there day by day, until it be quite waſted and deſtroyed; and ſo he come to be judged according to the fleſh, and to live to God in the Spirit.</p>
+            </div>
+            <div n="8" type="part">
+               <head>
+                  <hi>VIII.</hi> Concerning God's writing his Law in the heart.</head>
+               <p>Queſt. <hi>How doth God write his Law in the heart?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> By his Spirit and Power working there, whereby he both creates a new Heart and writes the new Law, even the Law of the Spirit of Life in Chriſt Jeſus, in the new Heart <hi>The Iſles ſhall wait for his Law.</hi> Whoſe Law The Law of the Meſſiah, the Law of Grace which gives dominion; the Law of the Anoint<g ref="char:EOLhyphen"/>ing,
+<pb n="19" facs="tcp:107901:10"/>
+the Law of the New-Birth, the Law of the Holy Seed. <hi>His Seed remaineth in him,</hi> 1 <hi>Joh.</hi> 3.9. In that Seed is the new Nature, and the new Law both. What is the Law of Sin? what is the Law of Death? how is it written in the Heart? How doth the enemy write it there, but by his corrupt ſpirit and nature? And doth not God by his holy Spirit and Na<g ref="char:EOLhyphen"/>ture write the new Law, the Law of Life in the hearts of thoſe that are renewed, and made tender to the impreſſions of his holy quick<g ref="char:EOLhyphen"/>ning Power: every motion and drawing where<g ref="char:EOLhyphen"/>of, is a Law to them who are born of the Spirit, and taught of God to eye and walk after the quickning Spirit.</p>
+            </div>
+            <div n="9" type="part">
+               <head>
+                  <hi>IX.</hi> Concerning the inward Light of God's Spirit.</head>
+               <p>Queſt. <hi>What is it which the mind is to be turned to, to enlighten it, and to work the dark<g ref="char:EOLhyphen"/>neſs and corruption out of it?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> It is no leſs than the Light of God's Spirit; nothing elſe can do it. The day-ſpring muſt ariſe from on high in the heart, or there will be night for ever there. All notions or apprehenſions concerning the Light will not do it: it is the ſhining of the Light alone in<g ref="char:EOLhyphen"/>wardly,
+<pb n="20" facs="tcp:107901:11"/>
+which is able to expel the darkneſs there. It was not for nothing that Chriſt came a Light to enlighten men; and directed men to follow him the Light, that they might not abide in Darkneſs; and that he ſent his Apo<g ref="char:EOLhyphen"/>ſtles with this meſſage, that <hi>God is Light, and in him is no darkneſs at all;</hi> and ſo gave his Apo<g ref="char:EOLhyphen"/>ſtles wiſdom, authority and power to turn men from the darkneſs to the light. And if the dark<g ref="char:EOLhyphen"/>neſs was within, which they were to be turned from, ſurely the light muſt ſhine within, to diſcover the darkneſs; and to that light muſt they be turned. And in this light the holy Spi<g ref="char:EOLhyphen"/>rit is received, and dwells there; but out of this light, and the limits thereof, in every heart, dwells the unclean and dark ſpirit, and hath power and rule there: for nothing but the light and ſtrength of Gods Spirit is able to break his King<g ref="char:EOLhyphen"/>dom and dominion inwardly in the heart.</p>
+            </div>
+            <div n="10" type="part">
+               <head>
+                  <hi>X</hi> Concerning the Miniſters and Mini<g ref="char:EOLhyphen"/>ſtry of the Goſpel.</head>
+               <p>Queſt. <hi>Who are the miniſters, and what is the miniſtry of the Goſpel?</hi>
+               </p>
+               <p>
+                  <hi>Anſwer.</hi> They are the miniſters of the Goſpel who have received that ſpirit and power where<g ref="char:EOLhyphen"/>in the miniſtry of the Goſpel ſtands. For Chriſt
+<pb n="21" facs="tcp:107901:11"/>
+came in the ſpirit and power of the Father, and he ſends his Apoſtles and Miniſters in the ſame ſpirit and power, that they might be able to be<g ref="char:EOLhyphen"/>get, and reach to that birth, which is to be be<g ref="char:EOLhyphen"/>gotten and miniſtred to. It is one thing to be a Miniſter of the Law, and to miniſter Letter: and another thing to be a Miniſter of the Goſ<g ref="char:EOLhyphen"/>pel, and to miniſter Spirit. The Apoſtles were able Miniſters of the New Teſtament; not of the Letter, but of the Spirit: and ſo are all in a degree, who ſucceed them in any meaſure or proportion of their Miniſtry. For the Miniſtry of the Goſpel is in the Light, Spirit and Power of the moſt High, to turn peoples minds to a proportion of the ſame Light, Spirit and Power in themſelves, and ſo to come to the manifeſtati<g ref="char:EOLhyphen"/>on and quickning of the ſame Life in themſelves, that ſo they may walk in the ſame Light. For the Life is the Light: and he can never have Light, or ſee Light, who comes not firſt to feel ſome vertue from the quickning Power. O how precious is this miniſtry! bleſſed be the Lord, for his renewing of it in theſe our days! And this miniſtry is not to be confined to an outward order of men, as the miniſtry of the law was: but whoever hath received the gift, ſo he is to miniſter, as the Lord guides, leads and orders him in the uſe of that gift which he hath be<g ref="char:EOLhyphen"/>ſtowed upon him for that end. And what if he be an herdſman, a fiſherman, a Tent-maker
+<pb n="22" facs="tcp:107901:12"/>
+or the like? yet if God hath poured out his ſpirit upon him, and openeth his mouth, he hath not only liberty, but more, even autho<g ref="char:EOLhyphen"/>rity from the Lord God almighty to ſpeak in his name, either for turning men unto Chriſt, the light and life of men, or for building men up in their holy faith in him, whoſe ſpirit and power was and is the reſurrection of the life for evermore.</p>
+            </div>
+            <div n="11" type="part">
+               <head>
+                  <hi>XI</hi> Concerning trying of Spirits and ſearching the Heart.</head>
+               <p>Queſt. <hi>What is it which ſearcheth the heart, and infallibly tries Spirits?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> Gods Spirit, Gods word nigh in the heart and mouth, ſeparateth and giveth true diſcerning and judgment there, to all whoſe ears are circumciſed and inclined to it. Gods Spirit is the ſpirit of judgment; and where he is given, the ſpirit of judgment is given; and he judgeth in his children by the quickning life and ſenſe he beſtoweth on them, which diſtinguiſheth be<g ref="char:EOLhyphen"/>tween life and death, between truth and deceit yea between the ſame words, when they come from the dead ſpirit, and when they are ſpoken in his living power: Chriſt gives his ſpirit to his ſheep, which gives them to know his voice; to
+<pb n="23" facs="tcp:107901:12"/>
+know when life ſpeaks, and when words are li<g ref="char:EOLhyphen"/>ving, and food for the living; and in what mouth they are dead, and cannot yield living nouriſhment.</p>
+            </div>
+            <div n="12" type="part">
+               <head>
+                  <hi>XII.</hi> Concerning things neceſſary to Sal<g ref="char:EOLhyphen"/>vation.</head>
+               <p>Queſt. <hi>Whether all things neceſſary to Salva<g ref="char:EOLhyphen"/>tion be contained in the Scriptures?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> The Scriptures give teſtimony con<g ref="char:EOLhyphen"/>cerning the one thing neceſſary to ſalvation: but the thing it ſelf, Chriſt himſelf, the ſeed it ſelf is not contained in the Scriptures, but revealed in the ſhinings of the true light, and ſo received or rejected inwardly in the heart. <hi>Behold I ſtand at the door and knock.</hi> Bleſſed are they that hear his voice, and believe him knocking, and open to him; and receive him who gives eternal life, and power to become Sons of God, to as many as receive him, and believe in and give up to the inward revealings of his redeeming arm and power therein, <hi>To whom is the arm of the Lord revealed?</hi> They in and to whom this arm is revealed, Chriſt is revealed: and they, in whom and to whom Chriſt is revealed, know the one thing neceſſary, even him who is life eternal, in whom all other neceſſary things
+<pb n="24" facs="tcp:107901:13"/>
+are wrapped up, and by whom they are con<g ref="char:EOLhyphen"/>veyed to the ſoul, according to its need, by him who is faithful in all his houſe, and takes care of every ſheep which the Father committeth to him.</p>
+            </div>
+            <div n="13" type="part">
+               <head>
+                  <hi>XIII.</hi> Concerning the true Goſpel-Church. or Society.</head>
+               <p>Queſt. <hi>What is the true Gospel-Church or ſoci<g ref="char:EOLhyphen"/>ety?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> A company of true believers in the ſpirit and power of the Lord Jeſus Chriſt. A company of true Jews, inward Jews, Jews in Spirit, of the true circumciſion, whom the Father hath ſought out, and made true inward wor<g ref="char:EOLhyphen"/>ſhippers: Such as are gathered to the name and gathered together in the name of the Lord Je<g ref="char:EOLhyphen"/>ſus, to offer up ſpiritual ſacrifices to God through him. A company of living ſtones, who have received life from him the foundation-ſtone, and met together to wait upon and worſhip the Father, in the life and Spirit which they have received from him. This is the holy Church, or living aſſembly of the New-Teſtament: bleſſed are they that are of it! For about this Church is the wall of Salvation: and they that are added by Gods ſpirit and power to this
+<pb n="25" facs="tcp:107901:13"/>
+Church, and abide in it, ſhall certainly be ſa<g ref="char:EOLhyphen"/>ved.</p>
+            </div>
+            <div n="14" type="part">
+               <head>
+                  <hi>XIV.</hi> Concerning the way to Salvation.</head>
+               <p>Queſt. <hi>Which is the certain and infallible way to Salvation?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> It is a new and living way; it is ſuch a way, as none but the living can walk in. It is an holy way, which none but the cleanſed, the ranſomed, the redeemed of the Lord, can ſet one ſtep in. The way, the life and the truth are all one: bleſſed are they that find it, and walk in it. In plain and expreſs terms, It is the Lord Jeſus, the light of the Lord Jeſus, the life of the Lord Jeſus, the Spirit of the Lord Jeſus, the Truth as it is in him, his wiſdom, his power, he himſelf the covenant or holy limit be<g ref="char:EOLhyphen"/>tween God and the Soul. <hi>He</hi> that comes into him comes into the way: he that abides in him, abides in the way: he that walks in him walks in the way. He that comes to his light, his life, his Spirit, his truth in the inward parts, comes to him: he that abides therein, abides in him: he that walks therein, walks in him: and he that walks out of the light and leadings of his Spirit, let him walk in what form he will, yet he walks not in him the way.</p>
+            </div>
+            <div n="15" type="part">
+               <pb n="26" facs="tcp:107901:14"/>
+               <head>
+                  <hi>XV.</hi> Concerning Chriſts ſaving the Soul.</head>
+               <p>Queſt. <hi>How doth Chriſt ſave the Soul?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> By viſiting inwardly, knocking in<g ref="char:EOLhyphen"/>wardly, appearing inwardly, cauſing the light of life to ſhine inwardly; and ſo enlightning and quickning inwardly, breaking the ſtrength of the enemy inwardly, and bringing out of the region and ſhadow of darkneſs inwardly, into the region and path of light. By the light and po<g ref="char:EOLhyphen"/>wer of his ſpirit he begets a child of light, which child of light he brings out of <hi>Egypt</hi> the dark land, out of <hi>Sodom</hi> the filthy unclean Land, out of <hi>Babylon</hi> the Land and City of confuſion (where the Spirit of the living God, and the holy order of life, and his precious government in the heart is not ſo much as known) and brings him into the light, where He &amp; his Father dwels. And this child of light is not of the nature of dark<g ref="char:EOLhyphen"/>neſs, but light in the Lord, and walks in the light, as he is in the light: and by the further ſhining and working of the light and life in him, he preſerves and ſaves him daily more and more.</p>
+            </div>
+            <div n="16" type="part">
+               <pb n="27" facs="tcp:107901:14"/>
+               <head>
+                  <hi>XVI.</hi> Concerning Regeneration or the New birth.</head>
+               <p>Queſt. <hi>What is the Regeneration or the new birth?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> It is an inward change by the ſpirit and power of the living God, into his own na<g ref="char:EOLhyphen"/>ture. It is a being begotten of his Spirit, born of his Spirit, begotten into and born of the very nature of his Spirit. (<hi>That which is born of the Spirit is Spirit</hi> Joh. 3.) It is not every change of mind, which is the right change: but only that which God by the very ſame power, where<g ref="char:EOLhyphen"/>with he raiſed our Lord Jeſus Chriſt from the Grave, makes in the hearts of thoſe whom he vi<g ref="char:EOLhyphen"/>ſits, who are ſenſible of, receive and are ſub<g ref="char:EOLhyphen"/>ject to his inward Life, Light and Power.</p>
+            </div>
+            <div n="17" type="part">
+               <head>
+                  <hi>XVII.</hi> Concerning true Holineſs.</head>
+               <p>Queſt. <hi>What is true Holineſs?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> That holy nature and thoſe holy a<g ref="char:EOLhyphen"/>ctions, which ariſe from the holy root: all elſe are but imitations of holineſs, not the true ho<g ref="char:EOLhyphen"/>lineſs. The tree muſt be made good firſt, and
+<pb n="28" facs="tcp:107901:15"/>
+then the fruit will be good alſo. There are ma<g ref="char:EOLhyphen"/>ny likeneſſes of the true holineſs, up and down in ſeveral profeſſions: but there is no real holi<g ref="char:EOLhyphen"/>neſs to be found nor righteouſnes neither, but in the trees of Gods planting, in the branches which are by him ingraffed into the true Vine and Olive-tree, whoſe ſtrength of vertue and holineſs lies in the lap, which they daily receive from him.</p>
+            </div>
+            <div n="18" type="part">
+               <head>
+                  <hi>XVIII.</hi> Concerning Chriſts works outwardly in the days of his fleſh, and inwardly in the day and inward ſhining of the light of his ſpirit in the heart.</head>
+               <p>Queſt. <hi>Which are greater, the works which Chriſt did outwardly on the Bodies of men, in the days of his fleſh, or which he doth inwardly in mens Minds and Spirits, by the powerful appear<g ref="char:EOLhyphen"/>ance and operation of his Spirit? becauſe Chriſt ſaid, the works that he did, thoſe that believed on him ſhould do, and greater alſo, becauſe he went to the Father,</hi> Joh. 14.12.</p>
+               <p>
+                  <hi>Anſw.</hi> Doubtleſs to reach to the Soul, and quicken the Soul, and raiſe the Soul out of the grave of death, and cure the blindneſs, deafneſs, hardneſs, and diſeaſes of the ſoul, is greater than
+<pb n="29" facs="tcp:107901:15"/>
+the outward; and was ſignified by the out<g ref="char:EOLhyphen"/>ward.</p>
+            </div>
+            <div n="19" type="part">
+               <head>
+                  <hi>XIX.</hi> Concerning the yoke or croſs of Chriſt?</head>
+               <p>Queſt. <hi>What is the yoke or croſs of Chriſt?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> It is inward, as that which is to be crucified is chiefly inward. It is that gift of God, that light of his Spirit, which is contrary to the darkneſs, contrary to all that is corrupt; which wills againſt it, and wars againſt it; and being received, ſubjected to and born patiently, takes away the life of the fleſh, the will and wiſdom of the fleſh, and all the ſubtile reaſonings and devices of the fleſhly part; and ſo that lan<g ref="char:EOLhyphen"/>guiſhes and dies, and Gods plant is eaſed of it; and the ſoul, abiding under this croſs, comes into the true, pure and perfect liberty, where it hath ſcope unto holineſs, freedom unto righ<g ref="char:EOLhyphen"/>teouſneſs, and is in ſtrait bonds and holy chains from all liberty to the fleſh, and from all unho<g ref="char:EOLhyphen"/>lineſs and unrighteouſneſs of every kind.</p>
+            </div>
+            <div n="20" type="part">
+               <head>
+                  <hi>XX.</hi> Concerning making our Calling and Election ſure.</head>
+               <p>Queſt. <hi>How may a man make his Calling and Election ſure?</hi>
+               </p>
+               <p>
+                  <pb n="30" facs="tcp:107901:16"/>
+                  <hi>Anſw.</hi> By making the gift of God ſure to him: by making that ſure to him, wherein the Calling and Election is. For the choice is of the ſeed, the holy ſeed, the inward ſeed, the ſeed of Gods Spirit, and of the creature, as joyn<g ref="char:EOLhyphen"/>ed to the ſeed. God would have none to periſh but would have all come to the knowledg of Chriſt the Truth, who is the ſeed in whom the Election ſtands: and his holy advice to men is, whom he begins to call and to lead towards the Election, To make their Calling and Election ſure. So that the way of making the Calling and Election ſure, is to make the gift ſure, the ſeed ſure, the leaven ſure, the pearl ſure, which God will never reject, nor any that are found in true union with it, and in the love and obedience of it. O therefore, as God viſits with power (with his powerful gift) and as thou receiveſt power, dominion and authority over ſin (for in this gift is God's dominion and authority re<g ref="char:EOLhyphen"/>vealed) be faithful to the gift, be faithful to the power, give up to the truth in the inward parts, come into it, dwell in it, that thou mayſt feel its vertue and delivering nature, from every en<g ref="char:EOLhyphen"/>ſlaving and embondaging thing: and then ſtand faſt in the liberty, wherewith Chriſt the Lord (by the life vertue and power of his truth) ſets thee free. And ſo here thou wilt read thy Calling, and read thy Election day by day; and find them ſealed and ſure to thee in that truth,
+<pb n="31" facs="tcp:107901:16"/>
+in that gift, in that Heavenly Light, in that holy ſeed, which came from God, and is of him and which he delights to own and will ne<g ref="char:EOLhyphen"/>ver reject.</p>
+            </div>
+            <div n="21" type="part">
+               <head>
+                  <hi>XXI.</hi> Concerning Prayer.</head>
+               <p>Queſt. <hi>Which is the true Prayer?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> The breathings which ariſe from the true birth, from the living ſenſe, which God gives to the true birth; that is the true prayer. There is a ſpirit of prayer and ſup<g ref="char:EOLhyphen"/>plication given by God to his children, to wre<g ref="char:EOLhyphen"/>ſtle and prevail with him by. All prayer that ariſes from and is given by that Spirit, is true prayer: all other prayer is not right and true, but at beſt but an imitation of the true. <hi>We know not what to pray for as we ought, but the Spirit maketh interceſſion for us, with groanings which cannot be uttered.</hi> Mark, the very groan<g ref="char:EOLhyphen"/>ings that come from Gods Spirit, from his breath<g ref="char:EOLhyphen"/>ing and work upon the heart, are right pray<g ref="char:EOLhyphen"/>ers in Gods ſight: but other ſighs and groans are not ſo.</p>
+            </div>
+            <div n="22" type="part">
+               <pb n="32" facs="tcp:107901:17"/>
+               <head>
+                  <hi>XXII.</hi> Concerning Repentance.</head>
+               <p>Queſt. <hi>Which is the true Repentance?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> That which Chriſt gives, whom God hath exalted to be the Prince and Saviour, to give Repentance and forgiveneſs of ſins, <hi>Acts</hi> 5.31. It is not in man's power to repent: his heart is hard and impenitent. It is God's power which melteth, tendereth and changeth the heart. So that there is a great difference between the ſenſe and ſorrow of mans nature, and the ſenſe and ſorrow which God gives to the heart which he renews and changes. The one is of an earthly, the other of a heavenly nature. The one is like the early dew, or morning cloud, it ſoon paſſeth away: the other is written in the new heart, and abideth. So that in it there is a real ſorrow and mourning over the corrupt nature, and all the dead works of the fleſh, and a turn<g ref="char:EOLhyphen"/>ing from them and medling no more with them. This is the Repentance of the renewed ones, which is the gift of the Lord Jeſus Chriſt unto them, and is a godly ſorrow for ſin, not to be repented of.</p>
+            </div>
+            <div n="23" type="part">
+               <pb n="33" facs="tcp:107901:17"/>
+               <head>
+                  <hi>XXIII.</hi> Concerning Faith.</head>
+               <p>Queſt. <hi>What is the true Faith?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> It is a belief, in the power which ſaves, from a true ſenſe and experience of it in the heart. For the power which ſaves muſt firſt manifeſt it ſelf, before it can be believed in. And how doth it manifeſt it ſelf but by ſhining in the heart, which hath been darkened by tranſgreſſion, to open the eye of the under<g ref="char:EOLhyphen"/>ſtanding, which the God of the World hath Blinded, and to unſtop the deaf Ear? and ſo it begets and creats ſomewhat capable to receive its further manifeſtation. The Scripture ſpeaks of a new Creation in Chriſt. Indeed all true believers are ſo: and they have the ability, the faculty, the power of believing from him who creates them anew. There is that which is cal<g ref="char:EOLhyphen"/>led Faith in unregenerate men: but that is not the Faith I am now ſpeaking of, but that which is the gift of God to his own birth, to his own begotten. <hi>To you it is given, not only to believe &amp;c.</hi> Phil. 1.29. Mark, <hi>it is given to believe.</hi> O, this holy gift! this Faith of the new birth is the Faith which pleaſeth God, prevaileth with him, purifieth the heart to which it is given, giveth ac<g ref="char:EOLhyphen"/>ceſs to God, intereſt in his power and promiſes
+<pb n="34" facs="tcp:107901:18"/>
+and victory over the worldly nature, and over all the Soul's enemies. Bleſſed be the Lord for beſtowing and increaſing it in the hearts of his Children.</p>
+            </div>
+            <div n="24" type="part">
+               <head>
+                  <hi>XXIV.</hi> Concerning Obedience.</head>
+               <p>Queſt. <hi>What is the true Obedience?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> The Obedience which ſlows from th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> true underſtanding of God's will, and from th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> holy nature which he begets in the heart. It is the Obedience which ſlows from true ſenſe true underſtanding, and true faith. There is no birth can believe aright, but one: nor is there any birth can obey aright, but that birth which believes aright. The true believing is from the quickning vertue of God's ſpirit (all other Faith is but dead Faith: and the true Obedience is in the newneſs of the ſpirit (Rom. 6.4. an<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 7.6.) Man may ſtrive to underſtand and obey all his days; but he can do neither, but as he i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> quickned, taught and enabled of the Lord <hi>Teach me, O Lord, the way of thy ſtatutes,</hi> Pſal 119.33. There is a myſtical path of life. Th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> way of wiſdom, the way of holineſs, the holy skill of obeying the truth is hid from all living from all mankind; but ſuch as are begotten and
+<pb n="35" facs="tcp:107901:18"/>
+brought up by him, in the holy skill and myſte<g ref="char:EOLhyphen"/>ry of ſubjection to the Lord. <hi>The people ſhall be a willing people in the any of thy <gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>er.</hi> It is the power of God that works the will in the heart, and the ſame power works to do alſo: and none can learn either to will or to do <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>righ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, but as they come to be acquainted with that power, joyned to that power, and feel that power working in them. And here; in this power, to this new birth, faith and the Holy Obedi<g ref="char:EOLhyphen"/>ence are as natural, as unbelief and diſobedience is to the birth of the fleſh. It is frequently and abundantly experienced by his holy birth, by the child of his begetting. Bleſſed be the name of the Lord.</p>
+            </div>
+            <div n="25" type="part">
+               <head>
+                  <hi>XXV.</hi> Concerning Juſtification.</head>
+               <p>Queſt. <hi>What is Juſtification, or how is a man juſtified in the ſight of God?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> By a true ſenſe of and Faith in that which juſtifies, which is the ſpirit, the life, the water, the bloud, the vertue, the power of the Lord Jeſus. All theſe are one in nature, and they go together. Man is ſinful naturally, fal<g ref="char:EOLhyphen"/>len from God, found a tranſgreſſor againſt him. Now he needs Juſtification from his ſins and he needs Juſtification in reſpect of what God
+<pb n="36" facs="tcp:107901:19"/>
+hath entruſted him with, and requires of him and in the new birth, and joyning to the ſpirit of the Lord Jeſus Chriſt, he meets with both. Being quickned by his holy ſpirit, turned from the darkneſs, coming into the light, and walk<g ref="char:EOLhyphen"/>ing in the light; there his ſins are done away, blotted out as if they had never been, for his names ſake: and there he receiveth a new abi<g ref="char:EOLhyphen"/>lity, a new heart, a new ſpirit; yea the ſpi<g ref="char:EOLhyphen"/>rit of the living God, to quicken him and work in him: and whatever he doth in this ſpirit (or rather what God doth by him, in and through this ſpirit) is juſtified, owned, and accepted; God finds no fault in any of the fruits of his own ſpirit (in any of the children of men) but only in the fruits of the fleſh. And if for want of watchfulneſs the enemy ſhould prevail and draw into a ſnare, yet upon turning to the light of Gods holy Spirit, which diſcovers and re<g ref="char:EOLhyphen"/>proves for it; in the holy light the water flows, the bloud is ſprinkled, the conſcience is cleanſed, and ſo becomes clean even in God's ſight. O bleſſed is he, who is not deceived with dead notions of Juſtification, but feels the Juſtification which comes from God, and is accompanied with a living ſenſe, and with the teſtimony of his holy Spirit.</p>
+            </div>
+            <div n="26" type="part">
+               <pb n="37" facs="tcp:107901:19"/>
+               <head>
+                  <hi>XXVI.</hi> Concerning Good Works.</head>
+               <p>Queſt. <hi>What are Good Works?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> The Works that flow from God's good Spirit, the Works that are wrought in God, they are good Works. The Works of the new birth, of the new creature, are good Works; whereas all the works of the fleſh are bad, though never ſo onely painted. All its thoughts, imaginations, rea<g ref="char:EOLhyphen"/>ſonings, willings, runnings, hunting to find out God and heavenly things, with all its ſacrifices are corrupt and evil, having of the bad leaven, of the bad nature in them. Make the tree good, or its fruit can never be good. So that they are only the good Works, that flow from the good tree, from the good root. And here all the works of the fleſh, though never ſo glori<g ref="char:EOLhyphen"/>ous and taking in mans eye, are ſhut out by Gods meaſure, by Gods line and plummet of righteouſneſs and true Judgment: and every work of God's Spirit, the meaneſt work of faith the leaſt labour of true love, the leaſt ſhining of life in the heart, and the giving up thereto, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s owned by God, as coming from him and wrought in him, who worketh both to will and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o do of his own good pleaſure He that is ga<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hered to the light, which God hath enlight<g ref="char:EOLhyphen"/>ned
+<pb n="38" facs="tcp:107901:20"/>
+him with, hath received the light, dwel<g ref="char:EOLhyphen"/>leth in the light, and walketh in the light; th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſpirit of the living God is near him, and dwel<g ref="char:EOLhyphen"/>leth with him and worketh in him; and h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> bringeth his deeds to the Light, where it <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> manifeſt that they are wrought in God. B<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> he that is out of the inward Light of God's ho<g ref="char:EOLunhyphen"/>ly Spirit, his works are not wrought in God and ſo can but make a fair ſhew in the Fleſh (<gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the fleſhly eye) but are not good in God's ſigh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> The erring mans way and works are often rigi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in his own eyes: ah, but bleſſed is he whe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> way and works are good and right in the ey<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of the Lord, in the judgment of his ſearchin<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> unerring Light and Spirit.</p>
+            </div>
+            <div n="27" type="part">
+               <head>
+                  <hi>XXVII.</hi> Concerning Love.</head>
+               <p>Queſt. <hi>Which is the true Love.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> The Love which ariſeth from the n<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ture which God begets, and from his circum<g ref="char:EOLunhyphen"/>ciſing the heart from the other nature. Lo<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> is the beautiful thing. What can be high<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> expreſſed concerning God himſelf, than to ſa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> he is Love? Love is greatly commended and ad<g ref="char:EOLunhyphen"/>mired, and there are many pretenders to it: b<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> none have the true Love, but only thoſe that ar<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> born of God, and circumciſed by him. <hi>T<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <pb n="39" facs="tcp:107901:20"/>
+Lord thy God will circumciſe thine heart, and the heart of thy ſeed, to love the Lord thy God, with all thine heart, and with all thy ſoul, that thou mayeſt live,</hi> Deut. 30.6. Mark, The true Love ariſeth from the true circumciſion. And the more a man comes to have his heart circum<g ref="char:EOLhyphen"/>ciſed from the fleſhly nature, and to grow up in the pure and heavenly nature, the more he loves. God is Love: and the nigher any one comes to him and the more he partakes of him, the more he becomes Love in the Lord, and the more he is taught of God to love the Lord his God, and his brethren in the ſpirit, and all man<g ref="char:EOLhyphen"/>kind, who are of his bloud (for of one bloud God made all mankind) according to the fleſh, or according to a natural conſideration.</p>
+            </div>
+            <div n="28" type="part">
+               <head>
+                  <hi>XXVIII.</hi> Concerning Meekneſs and Patience.</head>
+               <p>Queſt. <hi>Which is the true Meekneſs and Pati<g ref="char:EOLhyphen"/>ence.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> The Meekneſs and Patience which a<g ref="char:EOLhyphen"/>riſeth from the Lambs nature. Deceit will put on an appearance of Love; and deceit will put on alſo an appearance of Meekneſs and Patience: but it cannot put on the true Love, the true Meekneſs and Patience. That is only learned of the Lamb, and received of him by receiving
+<pb n="38" facs="tcp:107901:21"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="39" facs="tcp:107901:21"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="40" facs="tcp:107901:22"/>
+of his Spirit and nature from him. And O how precious is this how ſweet is it felt in the heart To feel a meek, a quiet, a patient ſpirit in the midſt of all trials, all troubles, all fears, all doubts, all temptations of every kind. Indeed this is of much price in the ſight of the Lord, and alſo in the eye of him who hath received it from the Lord, and enjoyeth it in him, and poſſeſ<g ref="char:EOLhyphen"/>ſeth his ſoul in it.</p>
+            </div>
+            <div n="29" type="part">
+               <head>
+                  <hi>XXIX.</hi> Concerning the Knowledg of the new Covenant.</head>
+               <p>Queſt. <hi>What is the knowledg of the new Cove<g ref="char:EOLhyphen"/>nant?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> The Knowledg which is given by God to the new birth: for to it the new Covenant be<g ref="char:EOLhyphen"/>longs, and the knowledg thereof. The truly begotten of God, the true diſciples of Chriſt, to them it is given to know the Kingdom of God, but to others it is not given. The Jew out<g ref="char:EOLhyphen"/>ward, the firſt birth, the birth after the fleſh; for hem the Prieſts lips were to preſerve knowledg, and they were to ſeek the law a<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> his mouth, and to them God ſent Prophets to ſpeak to them and taught them by his prophets<g ref="char:punc">▪</g> but concerning the inward Jews, the Children of the new Covenant, the Children of the Jeru<g ref="char:EOLhyphen"/>ſalem
+<pb n="41" facs="tcp:107901:22"/>
+which is above, concerning her ſeed it was propheſied, that they all ſhould be taught of the Lord, they all ſhould hear and know the voice of the Shepheard himſelf, they ſhould all be gathered to the Sheepherd and Biſhop of the Soul and taught by him. So that in this new, holy, living Covenant, God him<g ref="char:EOLhyphen"/>ſelf is the Sheepherd, God himſelf is the Teach<g ref="char:EOLhyphen"/>er: not only of the greateſt, but of the very leaſt, <hi>Heb.</hi> 8. For he teacheth them all to know the Lord, and to know his Son, and to come to his Son, and to love him their Father, and one another. So that he that is taught of God, he hath the true knowledg, the living know<g ref="char:EOLhyphen"/>ledg, the ſubſtantial knowledg, the knowledg of the thing it ſelf, of the life eternal it ſelf. All that are not thus taught (but learn only from a literal deſcription and relations of things) have not the knowledg of the new Co<g ref="char:EOLhyphen"/>venant, the knowledg of the thing it ſelf: but only an outward knowledg, ſuch as the firſt birth may catch at, lay hold on and compre<g ref="char:EOLhyphen"/>hend.</p>
+            </div>
+            <div n="30" type="part">
+               <pb n="42" facs="tcp:107901:23"/>
+               <head>
+                  <hi>XXX.</hi> Concerning the Fear of the new Cove<g ref="char:EOLhyphen"/>nant.</head>
+               <p>Queſt. <hi>What is the Fear of the new Cove<g ref="char:EOLhyphen"/>nant?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> It is the Fear which God puts in the hearts of his children, which Fear cleanſeth their hearts, and keepeth them from departing from their God. There is a great deal of dif<g ref="char:EOLhyphen"/>ference between the Fear, which may be learn<g ref="char:EOLhyphen"/>ed from precepts from without, and the Fear, which God puts into the hearts of his Children, from a root of life within; which Fear is of an heavenly nature, and is the free gift of God to his own heavenly Birth, and none elſe: which no man can poſſibly attain by any thoughts or reaſonings of his own, but only by the ſpring<g ref="char:EOLhyphen"/>ings of life from God. And he that would have this Fear, muſt know the place of wiſdom, and wait there for it and when he hath it, this Fear will ſoon begin to make him wiſe towards Salvation and teach him to depart from evil, which is the cauſe of deſtruction; <hi>Job.</hi> 28.28.</p>
+            </div>
+            <div n="31" type="part">
+               <pb n="43" facs="tcp:107901:23"/>
+               <head>
+                  <hi>XXXI.</hi> Concerning Hope.</head>
+               <p>Queſt. <hi>What is the true Hope.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> The ſtay of the Mind upon the Lord, the ſtay of the heavenly birth upon its Father. For we muſt diſtinguiſh between Hope and Hope. There is the Hope of the hypocrite, or falſe birth, which ſhall periſh: and the Hope of the true birth, which will never fail it, nor make it aſhamed; becauſe that birth is taught of God to hope aright. Now in Hope, there is both the ground of it, and the Hope it ſelf. The ground of the Hope is God's Love, God's Truth, God's Faithfulneſs, God's Grace, his Seed, his Chriſt felt within; being of him, united to him, in him, he in me: here's the ground of my aſſurance of the everlaſting glory and in<g ref="char:EOLhyphen"/>heritance, which is ſure to the ſeed, and to all that are of and in the ſeed. So knowing Chriſt within me, feeling Chriſt within me, living in him and he in me, I have an anchor ſure and ſteadfaſt, within the vail; which no ſtorm no tempeſts, no tryals, no temptations, preſent or to come, have power over. And then there is the Hope or hoping it ſelf, that is, the ſtaying of the Mind upon the Lord, the leaning upon the Lord, the retireing beyond all thought, or
+<pb n="44" facs="tcp:107901:24"/>
+reaſonings, or lookings out, to the inward life; to feel ſomewhat ſpring from it, for the ſoul to Hope and truſt in, beyond all outward appear<g ref="char:EOLhyphen"/>ance. And this Hope never deceives nor makes aſhamed, thoſe who are taught of God thus to ſtay their minds upon him. Nay though the ſtate be <hi>darkneſs</hi> and no <hi>Light</hi> ſeen; yet be<g ref="char:EOLhyphen"/>neath the darkneſs, there is ſomewhat to ſtay the Mind of the Child and Servant of the Lord, till he appear and cauſe light to break out of obſcurity; for light is ſown for the righteous, and joy for the upright, even in their darkeſt ſaddeſt and moſt diſtreſſed conditions: in all which the Lord is near them, and there is ſtill ground for them to Hope in him.</p>
+            </div>
+            <div n="32" type="part">
+               <head>
+                  <hi>XXXII.</hi> Concerning Peace.</head>
+               <p>Queſt. <hi>Which is the true Peace?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> The Peace which God ſpeaks to the Soul: the Peace which Chriſt gives to his own diſciples. The way of Truth, the way of Life leads to Peace: and the Peace which is found therein, is of God's giving and is the true Peace. Firſt; God breaths upon the heart, begets a right birth, a true Child: then he leads him into the holy way, the righteous way, from that which loads and burthens, to that wherein is the eaſe
+<pb n="45" facs="tcp:107901:24"/>
+and reſt. Thus in the believing and following him, there's Joy and Peace. This is experienc<g ref="char:EOLhyphen"/>ed by all the true travellers, and by none elſe. No man, with all his wiſdom, know<g ref="char:EOLhyphen"/>ledg and underſtanding, can ſo much as gueſs at what this Peace is. The Peace of God, the Peace which he ſpeaks to his Children, the na<g ref="char:EOLhyphen"/>ture of it, the ſweetneſs of it, the heavenlineſs of it, paſſeth mans underſtanding: but he who is born from above, who hath a new and hea<g ref="char:EOLhyphen"/>venly underſtanding, he knoweth the nature, excellency and preciouſneſs of it, and would not for all this World, for any fear or danger or expectation of any thing from without, hazard the breaking off this precious Peace and Reſt of his Soul in his God.</p>
+            </div>
+            <div n="33" type="part">
+               <head>
+                  <hi>XXXIII.</hi> Concerning Joy.</head>
+               <p>Queſt. <hi>Which is the true Joy?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> The Joy which flows from God's preſence, and the work of his power in the heart, and the aſſured expectation which he gives of the full inheritance and glory of life everlaſting. When the Bridegroom is preſent, when the ſoul is gathered home to him, married to him, in u<g ref="char:EOLhyphen"/>nion with him, in the holy living fellowſhip; when he appears againſt the enemies of the Soul,
+<pb n="47" facs="tcp:107901:25"/>
+riſing up againſt them, breaking, ſcattering them, and giving of his good things; filling with Life, filling with Love, filling with Vir<g ref="char:EOLhyphen"/>tue, feaſting the Soul in the preſence of the Fa<g ref="char:EOLhyphen"/>ther. O what ſweet joy! O what fulneſs of Joy is there then in the heart! <hi>In thy preſence is ful<g ref="char:EOLhyphen"/>neſs of Joy, and at thy right hand are pleaſures for evermore,</hi> ſaid the Pſalmiſt (Pſal. 16.11.) Surely he had had a taſte of the thing, he had been in God's preſence, and that made him cry out, <hi>Caſt me not away from thy preſence,</hi> Pſal. 51.11. and he had drunk of the river of God's pleaſure which is at his right hand, which made him ſpeak ſo ſenſibly of it, <hi>Pſal.</hi> 36.8. and 46.4. Chriſt ſaid to his diſciples, that becauſe of his going away, they ſhould have ſorrow: but he would ſee them again, and their heart ſhould rejoice, and their joy no man ſhould come from them, <hi>Joh.</hi> 16.22. How, or when was this fulfilled? What were they ſorry for? Was it not the loſs of his outward preſence, which had been ſo ſweet and comfortable to them? How would he come to them again? Was it not by the Comforter? Was it not by his inward and ſpiritual preſence! So that he that was with them ſhould be in them? Before they knew Chriſt with them, now they ſhould know Chriſt in them, the Father in them, and they in him Im<g ref="char:EOLhyphen"/>manuel, the Goſpel-ſtate, God with us, dwel<g ref="char:EOLhyphen"/>ling with us, tabernacling in us, living in us,
+<pb n="46" facs="tcp:107901:25"/>
+walking in us; and we living and walking in him. When the Apoſtles came to this ſtate; then they came to witneſs the Joy in the Holy Ghoſt, even the Joy unſpeakable and full of glory. And hence it is, that the Goſpel-ſtate is a ſtate of Joy and rejoycing in the Lord, even in his glorious living preſence, and in the glory of his power. For in the Goſpel-ſtate, the true light ſhines in<g ref="char:EOLhyphen"/>wardly in the heart, the life is manifeſted and being manifeſted, they that come into the manifeſtation of it, come into the holy union, and into the holy fellowſhip with the Father and Son, where the Joy is, and where the Joy is full; where the power is revealed which does away that which is con<g ref="char:EOLhyphen"/>trary to the holy fellowſhip, and hinders the holy Joy and rejoicing in the Lord. See 1 <hi>John</hi> 1.3, 4.</p>
+            </div>
+            <div n="34" type="part">
+               <head>
+                  <hi>XXXIV.</hi> Concerning Poverty of Spirit and Humility.</head>
+               <p>Queſt. <hi>Which is the right Poverty of Spirit, and the true Humility?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> That Poverty and Humility of Spirit, which ſpringeth from the ſame root, from which the Faith, the Love, the Peace, the Joy, and the other heavenly things ariſe; and is of
+<pb n="48" facs="tcp:107901:26"/>
+the ſame nature. There is a voluntary Humi<g ref="char:EOLhyphen"/>lity, and a voluntary Poverty, even of Spirit; which man caſts himſelf into, and forms in him<g ref="char:EOLhyphen"/>ſelf, by his own workings and reaſonings. This is not the true, but the falſe image or counter<g ref="char:EOLhyphen"/>feit of the true. But then there is a Poverty, which ariſeth from God's emptying the Crea<g ref="char:EOLhyphen"/>ture, from God's ſtripping the Creature; and an Humility which ariſeth from a new heart and nature. This is of the right kind, and is laſting, and abides in the midſt of the riches and glory of the Kingdom. For as Chriſt was poor in Spirit before his Father; and lowly in heart, in the midſt of all the fulneſs which he received from him: ſo it is with theſe, who are of the ſame birth and nature with Chriſt. They are filled with Humility, and Cloathed with Hu<g ref="char:EOLhyphen"/>mility, in the midſt of all the Graces and hea<g ref="char:EOLhyphen"/>venly riches, which God fills them and adorns them with. Keep in the faith, keep in the Truth, keep in the Light, keep in the Power; it excludes boaſting in or after the fleſh, and keeps the Mind in that Humility and Poverty of Spirit, which God hath brought, and daily further and further brings it into: and ſo the Humility and Poverty remains (poor in Spirit for ever, humble in Spirit forever, nothing be<g ref="char:EOLhyphen"/>fore the Lord for ever) even as that remains, which brought into that frame, and keeps in that frame for ever. And ſo the Lord of Life
+<pb n="49" facs="tcp:107901:26"/>
+is only exalted; and the Creature kept abaſed before him, and low for ever; and is nothing, but as the Lord pleaſeth to fill, and make it to be what it is. So what I am, I am by God's Love, by his Grace, by his Mercy, by his Good<g ref="char:EOLhyphen"/>ne s, by his Power, by his Wiſdom, by his Righteouſneſs, b his Holineſs; which he of his own good pleaſure communicateth and cauſeth to ſpring in me, and filleth and cloath<g ref="char:EOLhyphen"/>eth me with, as ſeemeth good in his ſight.</p>
+            </div>
+            <div type="conclusion">
+               <head>The Concluſion.</head>
+               <p>There is mention made in the Book of the Revelations, in the Ep ſtles from Chriſt to the Seven Churches of <hi>Aſia,</hi> of a tree of life, which is in the midſt of the Paradiſe of God (the fruit whereof is good for food, and the leaves thereof for the healing of the Nations) and of hidden Manna, and a white ſtone, and in the ſtone a new name written, which none knoweth but he that receiveth it: and of a morning-ſtar to be given, and power over the Nations to rule their ſpirit even as Chriſt hath received of his Father: and of being cloathed in white, and his Name confeſſed before the Father (This is the Sheep of my told, the child of my Father's begetting, who is named by me among the living, I know him by his name, <hi>Joh.</hi> 10.3.) as alſo of being a pil<g ref="char:EOLhyphen"/>lar in the Temple of God, and of going no more
+<pb n="50" facs="tcp:107901:27"/>
+out, but bearing the name of God, and the name of the City of God, the new Jeruſalem (which cometh down from God out of Heaven) and of Chriſt's new name (Oh what is that!) and of ſitting with Chriſt in his throne. This is the generation of ſpiritual Kings, who have a Spiritual Kingdom and a Spiritual Throne, even Chriſt's Kingdom and Chriſt's Throne the royal Prieſthood of God. O precious things! O rich glory! Surely Eye hath not ſeen, nor Ear heard, nor hath it entred into the Heart of men to con<g ref="char:EOLhyphen"/>ceive what theſe things are.</p>
+               <p>Now he that would witneſs theſe things, he that would know, experience and enjoy theſe things; muſt mind that ſeed, in which they are wrapped up, as in a ſeed, and out of which they ſpring and ſhoot forth. The Kingdom is in the ſeed, the Throne in the ſeed, the Power in the ſeed. He that is united to the ſeed, and abi<g ref="char:EOLhyphen"/>deth in the ſeed, receiveth power from the ſeed and overcometh, ſhall inherit all things. And I will be his God and he ſhall be my Son, <hi>Rev.</hi> 21.7. But he that will be ſo muſt not be fearful or unbelieving, of overcoming ſin or his ſouls <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> muſt depend upon the Almighty and alſufficient Power of God which will give him vict<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ry over ſin, and keep him that he touch no unclean things that he may be h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly, as the Lord his God is holy; and righteous, even as the Lord his God is righteous. Indeed it be<g ref="char:EOLhyphen"/>cometh
+<pb n="51" facs="tcp:107901:27"/>
+the heavenly Children to partake of the Divine Life, of the heavenly nature of their Fa<g ref="char:EOLhyphen"/>ther, and be like him. And he that partaketh of his nature, of his holineſs (<hi>Heb.</hi> 12.10.) is holy as he is holy: and he that from the holy root of purity and righteouſneſs doth righteouſ<g ref="char:EOLhyphen"/>neſs; is righteous, even as he is righteous, 1 <hi>Joh.</hi> 3.7, So it is written without, and ſo it is te<g ref="char:EOLhyphen"/>ſtified within, by him that is born of God, in whom the Seed remaineth, which overcom<g ref="char:EOLhyphen"/>eth the wicked one, bruiſeth him and keepeth him under; and the juſt live by the Faith which giveth victory over him.</p>
+            </div>
+         </div>
+         <div type="preface">
+            <pb n="52" facs="tcp:107901:28"/>
+            <head>A PREFACE TO THE EXPERIENCES.</head>
+            <p>IT hath pleaſed the Lord, to unſeal and open the Fountain of Life, in the midſt of his Heritage: ſo that in his Light do they ſee Light, and in his Life do they reap and enjoy Life. And the precious Promi<g ref="char:EOLhyphen"/>ſes are fulfilled in the midſt of them, of ſend<g ref="char:EOLhyphen"/>ing the Comforter, and pouring out of the Holy Spirit; ſo that he that believeth, out of his belly do flow rivers of living water. Yea the Lord hath a vineyard of his own planting, which he keepeth night and day (leſt any hurt it) and watereth every mo<g ref="char:EOLhyphen"/>ment. O the ſtreams of Life, the ſtreams of Love, the ſtreams of Grace, the ſtreams of Mercy, the ſtreams of Peace, the ſtreams of Joy and Conſolation which flow from
+<pb n="53" facs="tcp:107901:28"/>
+him into the Boſoms of his Children! In<g ref="char:EOLhyphen"/>deed Grace and Mercy and Peace is multi<g ref="char:EOLhyphen"/>plyed from God our Father, in and through the Lord Jeſus Chriſt, daily: inſomuch as that ſaying of Chriſt to his diſciples (Joh. <hi>14.26, 27.</hi>) is now fulfilled, I ſay not that I will pray the Father for you: for the Father himſelf loveth you, &amp;c. the Father in his Love hath brought us to the Son, and the Son in the ſame Love hath brought us back to the Father: and now the Love flows from the Father, in and through the Son, moſt naturally and abundantly. And where the heart is Circumciſed, and much forgiven, there alſo Love returns back moſt truly and naturally: So that the Lord our God, in the Lord Jeſus Chriſt, is lo<g ref="char:EOLhyphen"/>ved with all the heart and with all the Soul, and nothing is thought too good to ſacrifice to him, nor any thing too much to ſuffer for him. O the pure Love that Springs and Flows, between the heavenly Father and the Spiritual Child! The beſt love that is to be found in this world (in the Men of this World) is not worthy to be a ſha<g ref="char:EOLhyphen"/>dow of it. God is Love: and his Children
+<pb n="54" facs="tcp:107901:29"/>
+are of him, and partake of, and dwell in the ſame love; though the enmity and higheſt Wiſdom of this World know them not, nor can know them; even as it never could know the Children of the true Wiſdom ſor<g ref="char:EOLhyphen"/>merly.</p>
+            <p>Now from this Fountain, do not only iſſue Springs and Streams of Life, to refreſh our own hearts: but teſtimonies concern<g ref="char:EOLhyphen"/>ing the Life, which we feel and partake of, and concerning our travels from the dark Land, through the valley of tears (where he, who gave us Life, was our well) to<g ref="char:EOLhyphen"/>wards our reſting place. Theſe many times Spring up in us for the ſakes of others: of which nature are the things which follow. For not for my own ſake did they Spring up in me, at this time: but to ſignify to others of the Mercy the Lord hath ſhewn me, and the way wherein he hath led me, and what he hath given me to taſte of an experience in the way; which will anſwer every true pa<g ref="char:EOLhyphen"/>alate, every palate that is ſeaſoned with life and with the true experience. And having received them from the Lord for
+<pb n="55" facs="tcp:107901:29"/>
+this very end, to hold them forth to others: in Love and tenderneſs of Spirit, my heart is freely given up to him therein; not aim<g ref="char:EOLhyphen"/>ing at any thing thereby, but his glory ſin<g ref="char:EOLhyphen"/>gly and the good of ſuch Souls, to whom he ſhall pleaſe to extend favour and ſhew Mer<g ref="char:EOLhyphen"/>cy, in opening the heavenly Miſtery of Life and Salvation to them.</p>
+            <p>I have often ſaid in my heart, <hi>Who hath begotten me theſe? Who would have ſaid, that</hi> Sarah <hi>ſhould have given Children Suck!</hi> My wound was deep, and ſeemed incurable. But bleſſed be the Lord, who hath made known to me the Phi<g ref="char:EOLhyphen"/>ſitian of value, for whom no diſeaſe is too hard; but he is able to cure ſickneſs, and to relieve and reſcue all that are captived and oppreſſed by the Devil, that come unto him and wait upon him, in the way of his righte<g ref="char:EOLhyphen"/>ous judgments and moſt tender Mercies. For after all my Religion, and deep exerciſes, and inward experiences and knowledg, I came to ſuch a leſs of what I once had, that I ſenſibly felt I knew not the Lord, and lay continually groaning and Mourning af<g ref="char:EOLhyphen"/>ter
+<pb n="56" facs="tcp:107901:30"/>
+him, and deeply afflicted for want of him. O the pure Light, and precious Life, and ſweet preſence of my God that my Soul wanted, inſomuch that my moiſture was turned into the drought of ſummer and my bones grown dry and withered! But at length, the Lord in his goodneſs (O bleſſed for ever be his name!) breathed upon the dry bones, and I felt Life enter from him into me, and the days of deep ſorrow and diſtreſs were at length forgotten, becauſe a man<g ref="char:EOLhyphen"/>child was at length conceived and brought forth. And now wher's the Sack-Cloth? Wher's the Aſhes? Oh ther's beauty in Life inſtead of the Aſhes in the ſtate without Life; and the garment of praiſe, inſtead of the Spirit of heavineſs! O Glory, Glory to the binder up of the bruiſed, and broken<g ref="char:EOLhyphen"/>hearted, to the redemer of the captives, to the repairer of the breaches, to the builder up of the waſted and deſ la<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e ones! Glory to his tender Mercy, Glory to his Grace, Glory to his Love, Glory to his Wiſdom, Glory to his Power for ever and ever, <hi>Amen.</hi>
+            </p>
+         </div>
+         <div type="text">
+            <pb n="57" facs="tcp:107901:30"/>
+            <head>Some Experiences added.</head>
+            <div n="1" type="part">
+               <head>
+                  <hi>I.</hi> Concerning the Seed of the Kingdom.</head>
+               <p>COncerning the Seed of the Kingdom this I have experienced, that it conſiſts not in words or notions of the Mind, but is an inward thing, an inward ſpiritual ſubſtance in the heart, as real inwardly in its kind, as other Seeds are outwardly in their kind: and that being received by faith and taking root in man, (his heart, his earth being ploughed up and pre<g ref="char:EOLhyphen"/>pared for it) it groweth up inwardly, and bringeth forth fruit inwardly, as truly and re<g ref="char:EOLhyphen"/>ally, as any outward Seed doth outwardly. This Seed is known by its contrariety and en<g ref="char:EOLhyphen"/>mity againſt the Seed of the Serpent, againſt all the Seeds of evil in the heart of Men; it diſco<g ref="char:EOLhyphen"/>vering them, turning the mind from them and warning againſt them, and bruiſing and over<g ref="char:EOLhyphen"/>coming them in all that receive it, and let in its holy nature which as an holy leaven or ſalt, worketh out that which is unholy and unrigh<g ref="char:EOLhyphen"/>teous, dark and dead, and ſeaſoneth with
+<pb n="58" facs="tcp:107901:31"/>
+Light, with Life, with Grace, with the Holineſs and Righteouſneſs of truth.</p>
+            </div>
+            <div n="2" type="part">
+               <head>
+                  <hi>II.</hi> Concerning the Souls Food.</head>
+               <p>The Souls Food is that which nouriſheth it, which is the ſame with that which giveth it Life. Every word proceeding out of the mouth of God, every motion, every quickning, every o<g ref="char:EOLhyphen"/>peration of his Spirit is living, and nouriſh<g ref="char:EOLhyphen"/>eth the Soul with Life, which receiveth it and feedeth on it. The ſpiritual Manna, the ſpiri<g ref="char:EOLhyphen"/>tual water from the holy Well or Fountain, the Milk of the word, the fleſh and bloud of the Son of the living God, his words which are ſpirit and Life, nouriſh up the living birth unto life e<g ref="char:EOLhyphen"/>verlaſting. How comes man to live at firſt: but by hearing the voice of him that giveth life? And how comes man to live afterwards, and to increaſe in life but by hearing the ſame voice ſtill? <hi>Encline your Ear and come unto me: hear, and your Soul ſhall live, &amp;c.</hi> Iſa. 55.3. This I have always experienced to give me Life, to nouriſh up and ſtrengthen me in Life; even freſh Life communicated from the living Foun<g ref="char:EOLhyphen"/>tain and ſo my life is not in my ſelf, not in any thing I can comprehend concerning Chriſt; but in being joyned to him, in being ingraffed into
+<pb n="59" facs="tcp:107901:31"/>
+him the holy root, into him the true Olive-tree, into his Spirit: and ſo by the ſap that ſprings up into me from him, my life is maintained and increaſed in me daily. Glory to his name for ever.</p>
+            </div>
+            <div n="3" type="part">
+               <head>
+                  <hi>III.</hi> Concerning God's Power.</head>
+               <p>Concerning God's Power this I have experi<g ref="char:EOLhyphen"/>enced, that that is it which doth the Work in the Soul. It begets to God, it brings out of the land of darkneſs, it leads through all the entan<g ref="char:EOLhyphen"/>glements, and preſerves in the midſt of them all. It breaks down the old building of ſin and in<g ref="char:EOLhyphen"/>iquity (both inwardly and outwardly, both in heart, and alſo in life and converſation) and raiſeth the new and holy building. It makes willing, it makes obedient, it gives to believe, it gives to ſuffer. O bleſſed be the Lord for the day of his Power, which is inwardly broken forth! O what would the poor child do, (the poor Lambs in the midſt of Wolves, inwardly and outwardly) were it not for the Father's hand, the Father's arm, the Father's Power, which is ſtill with them and compaſſeth them a<g ref="char:EOLhyphen"/>bout! O bleſſed are they that know the mini<g ref="char:EOLhyphen"/>ſtration of life inwardly, the Power of Life in<g ref="char:EOLhyphen"/>wardly! For in Life, in the Seed of Life is the Holy Power, which is manifeſt, appears and
+<pb n="60" facs="tcp:107901:32"/>
+works, as it gains ground on the Creature, to put forth and exerciſe in it the virtue and ſtrength, which it daily receiveth from its Fa<g ref="char:EOLhyphen"/>ther.</p>
+            </div>
+            <div n="4" type="part">
+               <head>
+                  <hi>IV.</hi> Concerning Temptation.</head>
+               <p>Concerning Temptations this I have experi<g ref="char:EOLhyphen"/>enced, that the ſtrength and hurt of them, as to the Soul, lies in the ſouls looking at them. For the ſtrength of God is revealed in his Children againſt the tempter, which being patiently wait<g ref="char:EOLhyphen"/>ed for and truſted in, will never fail them. The leaſt babe, the Lord would not have let in Temptation, and Sin: but watch to that, and keep joyned to that, which will preſerve out of the Temptation, and out of the Sin. God is faithful who hath care of all his, and whoſe Promiſe is to all his: and as he would have none ſin; ſo none that diligently wait ſhall want his Power to ſtand by them, to preſerve out of ſin. <hi>Look unto me and be ſaved, all the ends of the Earth.</hi> It's univerſally true. Look unto me, truſt in me; look not at your ſelves, truſt not in your ſelves, look not at the enemy, fear not the enemy; I will ſave you from every ſnare, every Temptation as your eye is ſteadfaſt upon me. What if the enemy come in like a floud, if the Spirit of the Lord lift up a ſtand<g ref="char:EOLhyphen"/>ard
+<pb n="61" facs="tcp:107901:32"/>
+againſt him, can he prevail? what though he caſt fiery darts? What though he be ſet round about? Will not the ſhield of Faith quench them all? Will not the whole Armour of God defend and keep ſafe from them all? If the enemy be reſiſted lawfully, that is, in true Faith in that Power which is engaged for the Soul againſt him; Doth not the Power of the Lord ariſe and ſcatter him, and ſtrengthen and eſtabliſh the Soul in the Grace and in the Truth? O the holy miſtery of the heavenly Warfare, and of the working of the pure Power againſt the enemy, which overcomes all his impurities, and keeps clean from them! Look not at the e<g ref="char:EOLhyphen"/>nemy, let not in the reaſonings of the Mind, keep in thy patience, keep in the pure fear, in the holy living ſenſe, be only what thou art in the ſeed, in the new birth, in the Life which God hath begotten in thee; then art thou ſafe, then art thou in the name of the Lord, which is the ſtrong Tower. The enemy indeed may make a noiſe about thee with his luſts, with his tem<g ref="char:EOLhyphen"/>ptations, with his flouds, with his ſtorms, with his fiery darts: but he cannot enter thy habita<g ref="char:EOLhyphen"/>tation. The Spirit of darkneſs, the Prince of darkneſs, is ſhut out of the Land and Light of the Living. Abide thou there: dwell in the Light, and walk in the Light, as God is in the Light, and he ſhall never have power over thee.</p>
+            </div>
+            <div n="5" type="part">
+               <pb n="62" facs="tcp:107901:33"/>
+               <head>
+                  <hi>V.</hi> Concerning Prayer.</head>
+               <p>I have experienced Prayer to be the breath<g ref="char:EOLhyphen"/>ing of that birth which God begets, to the Fa<g ref="char:EOLhyphen"/>ther of Life which begat it; who by his Spirit makes known to it its Condition and wants, and gives a ſuitable ſenſe of heart and cries to it. For as it is not in man to beget him<g ref="char:EOLhyphen"/>ſelf to God; no more can he pray to God in his own will or time, but as God pours out the Spirit of Prayer and Supplication upon him, and by his Spirit teacheth and helpeth him to pray as he ought. <hi>Becauſe ye are Sons, God hath ſent forth the Spirit of his Son into your hearts, crying Abba, Father.</hi> I have had a ſenſe of the natu<g ref="char:EOLhyphen"/>ral man, and of the ſpiritual man; and of the Cryes and Prayers of each: and this I have been taught and learned of God, that the Goſpel-Prayer, is the Prayer of that birth which is be<g ref="char:EOLhyphen"/>gotten by the Spirit and Power of the Goſpel, and which prays in the Spirit and in the ſpring<g ref="char:EOLhyphen"/>ings of the holy Life and Power, whereby it rightly wreſtles, and prevails with God, obtain<g ref="char:EOLhyphen"/>ing the Mercies and Bleſſings which it wreſtles with him for. For to this Child there is acceſs to God in the Faith, through that holy Spirit of Life which makes way for it, to obtain Grace
+<pb n="63" facs="tcp:107901:33"/>
+and Mercy in the time of need. And through this Spirit it prays to God, and prevails with him on the behalf of others alſo. For the Prayers of the righteous avail much, as it is written.</p>
+            </div>
+            <div n="6" type="part">
+               <head>
+                  <hi>VI.</hi> Concerning Juſtification and Sanctificati<g ref="char:EOLhyphen"/>on, ſome things which it hath pleaſed the Lord, in his tender Mercy, to give me to experience.</head>
+               <p>Firſt, That it is the ſame Chriſt, the ſame Spirit, the ſame Life, the ſame Wiſdom, the ſame Power, the ſame Goodneſs, Love and Mer<g ref="char:EOLhyphen"/>cy the ſame Water, the ſame Blood, which both juſtifies and ſanctifies.</p>
+               <p>Secondly, That Juſtification and Sanctifica<g ref="char:EOLhyphen"/>tion go hand in hand together. There is none Juſtified, but he that is in meaſure Sanctified: and there is none Sanctified but he that is in meaſure Juſtified. For God Juſtifieth by a rule (by the new Covenant, and according to the Law thereof;) And men receive and partake of Juſtification, according as they are brought into and keep within the compaſs of that rule. For God acted of old toward, and Juſtified the children of the old Covenant according to the Law thereof; and the Children of the new
+<pb n="64" facs="tcp:107901:34"/>
+Covenant are Juſtified and partake of Juſtifica<g ref="char:EOLhyphen"/>tion according to the Law thereof.</p>
+               <p>Thirdly, That Juſtification and Sanctifica<g ref="char:EOLhyphen"/>tion are both of and through Grace. It s ſo in the beginning and it is ſo all along. <hi>By grace ye are ſaved,</hi> ſaith the Apoſtle. The whole work of Salvation is began and carried on through Grace. It is through that God viſits and reaches to the Soul, with his quickening Vertue and Power. He regenerates alſo there<g ref="char:EOLhyphen"/>by. Through that he Juſt fies; Through that he Sanctifies, &amp;c. So that as the work goes on, Grace, Grace, is to be cryed for to him that does the work, from his very laying the Foundation and faſtning the Soul there<g ref="char:EOLhyphen"/>upon, to his very laying on of the top-ſtone.</p>
+               <p>Fourthly, Though Juſtification and Sancti<g ref="char:EOLhyphen"/>fication be of God's Grace and Mercy in Chriſt; yet this doth not exclude Faith: but they are alſo through Faith, and not without it. God doth not Juſtify man in the unbelieving ſtate, in the dead ſtate, in his abiding there; but in the co<g ref="char:EOLhyphen"/>ming out of it, in the repenting and turning from the dead works, to the living God, and in believing in him: and ſo he alſo Sanctifies him.</p>
+               <p>Fifthly, Faith and Obedience are of the ſame nature, and always go together. So that wherever there is Faith, there is Obedience like<g ref="char:EOLhyphen"/>wiſe, and wherever there is Obedience, there is
+<pb n="65" facs="tcp:107901:34"/>
+Faith. Obedience flows from Faith, and cannot be without it: for the very nature and vertue of Faith is in it. And Faith is Obedience. For this is the command of God, that the ſoul be<g ref="char:EOLhyphen"/>lieve on him (and in his appearances) whom he hath ſent to ſave: and this Believing is Obedi<g ref="char:EOLhyphen"/>ence unto him that commands it. And this Faith and this Obedience is Holy and Juſt in God's ſight and through it (but not without it) the Soul is the both Juſtified and Sanctified.</p>
+               <p>Sixtly, That the works of Faith, the works of the new Life, are not the works of the Law, the works of the old Covenant; nor are excluded Juſtification as the Works of the old Covenant are. For, I have found the Lord, who hath condemned and excluded all my doings, which ever I have been able to do of my ſelf, ſtill Ju<g ref="char:EOLhyphen"/>ſtify and accept what his Spirit and Holy Pow<g ref="char:EOLhyphen"/>er hath done in me. They are not of the ſame nature in themſelves, nor are they ſo accounted of in the eye of the Lord. For the Lord diſtin<g ref="char:EOLhyphen"/>guiſheth between root and root: and what ſpringeth from the holy Root, he Juſtifieth as holy, and what ariſeth from the unholy root, he condemneth as unholy.</p>
+               <p>Seventhly, That by the Law of Faith all boaſting is excluded, in the whole work both of Juſtification and Sanctification. What is the Law of Faith? Is not this its Law to fetch all from the Son, to do all in the Son? to quit
+<pb n="66" facs="tcp:107901:35"/>
+ſelf and its own ability, and to perform all in the newneſs of the Spirit, in the ability which is of God, given and continued in and through his Grace and Mercy to the Soul in the Lord Jeſus Chriſt? All the veins of Life, all the ſtrains of the new Covenant run here. Here is no boaſting of the Creature, here can be no boaſting: for all its ability and ſtrength is ſhut out; and that which is given of God to it, is all and doth all. Yet every Jew here hath praiſe of God. His Faith is commended, his Love is commended, his Faithfulneſs is commend<g ref="char:EOLhyphen"/>ed, his Zeal for the Lord, his Obedience to the Lord, his Patience in ſuffering is commended, &amp;c. but the praiſe and honour of all redounds not to his fleſh, but to the Spirit and Grace of God in him. So that here fleſh is laid low, and kept in the duſt for ever, and God alone exalted in this day of his pure power in the heart. He that truly believeth entreth into reſt. How into reſt? From what doth he reſt? Why, from his own works, from the works of the fleſh, yea from the Works of the Old Covenant; from the Works that ariſe from his own a<g ref="char:EOLhyphen"/>bility, from the works wherein he can never be Juſtified with the Goſpel-Juſtification. But doth he ceaſe from the works of Faith? doth he ceaſe from the Labour of Love? doth he ceaſe from Obedience to any thing that God re<g ref="char:EOLhyphen"/>quires? Nay, then ſurely he rather beginneth
+<pb n="67" facs="tcp:107901:35"/>
+to work and labour in the Vine-yard; and his labour is not in vain in the Lord.</p>
+            </div>
+            <div n="7" type="part">
+               <head>
+                  <hi>VII.</hi> Concerning Faith.</head>
+               <p>Several things I have experienced, both con<g ref="char:EOLhyphen"/>cerning the nature, vertue, and operations of it, ſome whereof (as I feel them ſpring up liv<g ref="char:EOLhyphen"/>ingly in my heart) I may mention at this time.</p>
+               <p>Firſt, This I have often experienced, that it is an hard thing truly and rightly to believe. It is an eaſy matter to believe notions concerning God, and concerning Chriſt: but to believe in God, to believe in Chriſt; to believe in him that raiſed up Jeſus, to believe in the Light, Life and Power, which flows from Jeſus, this indeed is hard by reaſon of the great Darkneſs and Igno<g ref="char:EOLhyphen"/>rance which man is faln into through tranſgreſ<g ref="char:EOLhyphen"/>ſion.</p>
+               <p>Secondly I have experienced this alſo, that Faith is God's gift, and that it flows from the power of his Life. There is firſt a quickening, firſt a touching of the heart by the holy, pure Power of the Lord: and when a man is touch<g ref="char:EOLhyphen"/>ed and quickened, then in and by and through that vertue which flows into him, he can be<g ref="char:EOLhyphen"/>lieve in that which toucheth and quickneth him.</p>
+               <p>Thirdly, That Faith never ſtands in a mans own power, but alwayes in the vertue and power of the life of the Son. So that he that will be<g ref="char:EOLhyphen"/>lieve
+<pb n="68" facs="tcp:107901:36"/>
+aright, muſt wait to feel the Life of the Son revealed in him, and Faith flowing there<g ref="char:EOLhyphen"/>from. For the true belief ſprings from the Life of the holy root; and from the flowing up and ſpringing up of that Life, Faith receives its nou<g ref="char:EOLhyphen"/>riſhment and daily vertue.</p>
+               <p>Fourthly I have obſerved this in my travels, that the Earthly Wiſdom and Notions there from, got into the Mind and held in the Mind out of the ſenſe of life, are a great let to Faith. For theſe ſtrengthen and nouriſh that in man, which is to be weakned and die, that Life and the birth of life may be all in the heart. Man is to die, man is to be ceaſed from his underſtanding, his Wiſdom is to be brought to nought. But after it hath had a ſtroke and wound from God's ho<g ref="char:EOLhyphen"/>ly Spirit and Power (even the very wound which tends to death) yet it will be getting Life again (getting its deadly wound healed) and nouriſhing its Life by thoſe very notions, which came from that Life and Power; which (in meaſure) ſlew it. And thus the Jew out<g ref="char:EOLhyphen"/>ward, hath his Life in the outwardneſs of knowledg, in the outwardneſs of the Law, in the letter which killeth: for the relation and outward knowledg of things killeth and dead<g ref="char:EOLhyphen"/>neth more and more, unleſs man come into the inward Life and Vertue, and daily feel them quickned there. <hi>If ye live in the Spirit, walk in the Spirit,</hi> ſaid the Apoſtle. A man cannot
+<pb n="69" facs="tcp:107901:36"/>
+live in an outwardneſs of knowledg concerning the Spirit and Power of the endleſs Life: but he that would truly live, muſt live in the ſpi<g ref="char:EOLhyphen"/>rit it ſelf; and he that would rightly walk on in his way, muſt walk in that Spirit wherein he received life, and wherein he that abideth lives before the Lord.</p>
+               <p>Fifthly, This I have alſo obſerved, that all notional Faith wherein is not the living vertue (as concerning Chriſt, his ſufferings, death, re<g ref="char:EOLhyphen"/>ſurrection, aſcention, interceſſion; and con<g ref="char:EOLhyphen"/>cerning Juſtification by him, &amp;c.) the enemy will let the Soul alone with, and let him enjoy peace in: but his war is deſperately againſt the true Faith, againſt Faith in the true power, a<g ref="char:EOLhyphen"/>gainſt Faith in the light of Life. O how many ſore and ſharp aſſaults doth he make againſt the Faith which receives its vertue from God, and cauſeth the Soul to live to God! And how ſore is it with the ſoul, when Faith is weak, and the enemy comes on againſt it with the ſtrength of his aſſaults and temptations. <hi>Lord, encreaſe our Faith,</hi> ſaid the ſenſible diſciples.</p>
+               <p>Sixtly, It is a precious thing to feel Faith quickened by God, and helped by God againſt the enemy. For then the enemy cannot prevail againſt the Soul, but the Soul through the ver<g ref="char:EOLhyphen"/>tue and power of life, prevails over the enemy in the Faith. And this is the great work of a Chri<g ref="char:EOLhyphen"/>ſtian,
+<pb n="70" facs="tcp:107901:37"/>
+not only to wreſtle and fight, but to learn ſo to wreſtle and ſo to fight, as to overcome.</p>
+               <p>Seventhly, That in the pure fear (not that which is taught by the precepts of Men, but which God puts into the heart) Faith hath its ſtrength and exerciſeth its ſtrength. O who knows the preciouſneſs of this Fear! The power of Faith, the power of Life, the power of Salva<g ref="char:EOLhyphen"/>tion and everlaſting preſervation is revealed in it. Therefore, ſaith the Lord, when he ſpeaketh of providing for his Children in the new Cove<g ref="char:EOLhyphen"/>nant, that they ſhall abide with him for ever; and not depart any more from him, as the Chil<g ref="char:EOLhyphen"/>dren of the old Covenant did; <hi>I will put my Fear in their hearts, and they ſhall not depart from me.</hi> And when the Angel preached the Everlaſting Goſpel, how did he preach it? <hi>Fear God and give glory to him, for the hour of his Judgment is come,</hi> &amp;c. Rev. 14. When the pure Fear is felt, when that which is contrary to God is judged; then the Goſpel is known and the work thereof experienced in the heart And how eaſy is it, when the pure fear is felt to diſtruſt and deny ones ſelf, and truſt in th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Lord? O how weak are the reaſonings and imaginations then, and how ſtrong is the powe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> which ſcatters them, and lifts up the head ove<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> them!</p>
+               <p>Now it concerns every one deeply to conſ<g ref="char:EOLunhyphen"/>der, of what nature his Faith is, and what vertu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="71" facs="tcp:107901:37"/>
+is in it, and what it can do in and through the Power of the Lord for him; how it fetcheth in the true living nouriſhment every day, how it delivers the Soul and gives it victory over that which Faith was appointed to deliver from. For he who through the Faith overcom<g ref="char:EOLhyphen"/>eth that which is contrary to God, ſhall inhe<g ref="char:EOLhyphen"/>rit; and he that fights the good fight of Faith, ſhall overcome: but he that overcomes not his enemies, which ſtand in his way, ſhall be ſure to be hindred by them from attaining to his journeys end.</p>
+            </div>
+            <div n="8" type="part">
+               <head>
+                  <hi>VIII.</hi> Concerning Obedience ſome Experien<g ref="char:EOLhyphen"/>ces alſo.</head>
+               <p>Firſt, True Obedience, Goſpel-Obedience flows from life, flows from the living faith. If I could obey in all things that God requires of me, yet that would not ſatisfy me, unleſs I felt my Obedience flow from the birth of his Life in me. My Father doth all in me, ſaith Chriſt, this was Chriſts comfort. And to feel Chriſt do. all in the Soul, is the comfort of every one that truly believes in him.</p>
+               <p>Secondly, True Obedience, Goſpel Obedi<g ref="char:EOLhyphen"/>ence is natural to the birth which is born of God. It is unnatural to the fleſh, to mans
+<pb n="72" facs="tcp:107901:38"/>
+Wiſdom, to deny himſelf and take up the croſs; but it is natural to the birth which is born of God's Spirit. <hi>That which is born of the Spirit is Spirit;</hi> and it is natural to it to be converſant in; and exerciſed about that which is Spiritu<g ref="char:EOLhyphen"/>al.</p>
+               <p>Thirdly, That honouring and pleaſing and anſwering the will of the Lord, is the proper aim of the truly Obedient. O how do they de<g ref="char:EOLhyphen"/>light to do the will of God. <hi>I have Meat,</hi> ſaith Chriſt, <hi>that ye know not of.</hi> To do the will was his Meat and drink: and it is Meat and Drink to all that are of his nature and Spirit. If I ſhould never have any other reward, but the pleaſure of Obedience; yet I could not but ſay and teſtify, that in anſwering the Law of the pure Life; in keeping the holy ſtatutes and com<g ref="char:EOLhyphen"/>mandments of Gods Spirit there is great re<g ref="char:EOLhyphen"/>ward. But yet there is a crown alſo, and a reaping after this Life, of every thing that is ſown to the Spirt: and the crown is weighty and everlaſtingly glorious.</p>
+               <p>Fourthly, Goſpel Obedience is exceeding ne<g ref="char:EOLhyphen"/>ceſſa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y in and to the Goſpel-ſtate. Mark, <hi>The Lamb is the leader:</hi> and can any be ſaved by him, but they that follow him? When Chriſt calls out of the World, muſt not the Soul come to him, who is the Sheepherd? And muſt not the Sheep daily learn to know his voice, and follow him: even till they come to be acquaint<g ref="char:EOLhyphen"/>ed
+<pb n="73" facs="tcp:107901:38"/>
+with every moving, drawing and leading of his Spirit; and ſo come to follow the Lamb whi<g ref="char:EOLhyphen"/>therſoever he goes? Mark what a weight Chriſt layeth upon doing. <hi>If ye know theſe things, happy are ye if ye do them.</hi> Why then the diſciples cannot come to happineſs, but in the doing, in the obeying of the will of Chriſt, his Lord and Maker. And <hi>he that heareth theſe ſay<g ref="char:EOLhyphen"/>ings of mine and doth them, I will liken him to a wiſe man, that built his houſe upon a rock.</hi> But the believer, without doing the will, is the fooliſh builder, whoſe building will not ſtand. Again ſaith Chriſt. <hi>As the Father hath loved me, ſo have I loved you continue ye in my love. If ye keep my commandments, ye ſhall abide in my love even as I have kept my Father's Commandements: and abide in his love.</hi> The diſciples whom he, moſt dearly loved, muſt keep his command<g ref="char:EOLhyphen"/>ments, if they will continue in his Love. And his Apoſtles taught the ſame, even the working out of the Salvation and the purifying of the heart through the Obedience of the truth. For Mark. There is a Covenant of Life, a way of Life: and how can Life be reaped, how can the work of Life go on, but in Subjection and Obe<g ref="char:EOLhyphen"/>dience thereto?</p>
+               <p>O bleſſed is he, who meets with the power of Life, which enables to obey, and who is O<g ref="char:EOLhyphen"/>bedient and ſubject to that power. For he that truly believes in Chriſt, is turned by him to his
+<pb n="74" facs="tcp:107901:39"/>
+Light, and to the power of his Father; and the Peace, Growth, Joy, Bleſſedneſs &amp;c is witneſſed in ſubjection thereto.</p>
+            </div>
+            <div n="8" type="part">
+               <head>
+                  <hi>VIII.</hi> Concerning the Croſs of Chriſt.</head>
+               <p>This I have experienced concerning the Croſs of our Lord Jeſus Chriſt, that it is an inward and ſpiritual thing, produceing inward and ſpi<g ref="char:EOLhyphen"/>ritual effects in the Mind: and that this is it, even that which ſlays the enmity in the mind, and crucifies to the World and the affections thereof. <hi>God forbid,</hi> ſaid the Apoſtle, <hi>that I ſhould glory ſave in the Croſs of our Lord Jeſus Chriſt, whereby the World is crucified unto me, and I unto the World.</hi> Now mark; That which is contrary to the World, and crucifies to the World, that is the Croſs. The Croſs hath its power, and nothing elſe: and ſo there is nothing elſe to glory in. <hi>The fleſh luſteth againſt the Spirit, and the Spirit againſt the fleſh: and theſe are contrary one to the other.</hi> Mind, here is the Croſs: The Spirit which is contrary to the fleſh, which mortifies the fleſh, through the Obedience whereof the fleſh is crucified. <hi>If ye through the Spirit mortify the deeds of the body, ye ſhall live.</hi> Whatſoever is of and in the Spirit, it is contrary to the fleſh. The light of the Spirit is contrary to the darkneſs of
+<pb n="75" facs="tcp:107901:39"/>
+the fleſh. The holineſs of the Spirit is contrary to the unholineſs of the corrupt heart. The Life of the Spirit is contrary to the Life (or ra<g ref="char:EOLhyphen"/>ther death) that is in ſin. The power of the Spirit is contrary to the power that is in Satan and his Kingdom. The Wiſdom of God is con<g ref="char:EOLhyphen"/>trary and a fooliſh thing to the Wiſdom of man. Yea the new Creature, which ſprings from God's Holy Spirit, is contrary and death to the old. Now he that comes hither, out of his own Wiſdom, out of his own will, out of his own thoughts, out of his own rea<g ref="char:EOLhyphen"/>ſonings; and comes to a diſcerning of God's Spirit, and to the feeling of his begetting of life in his heart, and his ſtirrings and movings in the life which he hath begotten, and waits here, and receives counſel here, he is taught to deny himſelf, and to joyn to and take up that, by which Chriſt daily croſſeth and ſubdueth in him that which is contrary to God.</p>
+               <p>And here is the fight of Faith, and the good travel under the Croſs, whereby, the holy jour<g ref="char:EOLhyphen"/>ney is gone, and the enemies (which riſe up to oppoſe in the way) vanquiſhed and overcome. For here is the power revealed: the preſerv<g ref="char:EOLhyphen"/>ing power, the leading power, the con<g ref="char:EOLhyphen"/>quering power of him, who rideth on con<g ref="char:EOLhyphen"/>quering and to conquer his ſpiritual enemi<g ref="char:EOLhyphen"/>es, in the hearts of his Children, who know his voice and are ſubiect to him; who daily
+<pb n="76" facs="tcp:107901:40"/>
+denying themſelves and taking up his Croſs, fol<g ref="char:EOLhyphen"/>low him. Wo is to them that are at eaſe in Si<g ref="char:EOLhyphen"/>on, under any thing that is contrary to God: but bleſſings are upon them whoſe dwelling is under the Croſs, and who know no eaſe but what it allows. It will make Truth, Life, Holineſs, Righteouſneſs, Faith, Obedience, Meekneſs, Patience, Love, Separation from Sin, Communion with the Lord, and all the fruits of the Spirit, as natural to them in the renewed ſtate, as ever ſin was in the corrupt ſtate. And in that ſtate, they ſhall be able to ſay with <hi>Paul;</hi> who once complained of his captivity, and that he did what he hated; yet after he had known the power of the Croſs, and was crucified with Chriſt, he could then do nothing againſt the truth, but for the truth: Yea then being a con<g ref="char:EOLhyphen"/>querer, having overcome the enemies which ſtood in his way, he could do all things through Chriſt that ſtrengthened him. The cauſe of ſo many complaints and bowings down the head, &amp; going mourning becauſe of the prevailings of the enemy, through temptations, ſin and corrup<g ref="char:EOLhyphen"/>tion, is becauſe the Croſs of Chriſt, which is the power of God, (which is his Ordinance againſt the ſtrength of the enemy) is either not known, or not taken up. And this is the reaſon that ma<g ref="char:EOLhyphen"/>ny that make a fair ſhew for a while, yet after<g ref="char:EOLhyphen"/>wards come to nothing (but are like untimely
+<pb n="77" facs="tcp:107901:40"/>
+figs, or like corn upon the Houſe-tops, which haſtily ſpringeth up, but ſoon withereth) be<g ref="char:EOLhyphen"/>cauſe they either rightly never learn, or keep not to the Croſs. For that alone hath power from God, to bring down and keep down that which is contrary to him. So that from under the Croſs of Chriſt, there is no witneſſing Sal<g ref="char:EOLhyphen"/>vation or preſervation from the Lord: but out of the limits of the Croſs, the enemy hath power to recover and bring back under his dominion again. And whoſoever, in his travels, leaves the Croſs behind him, does draw back unto perdition, and not travel on in the living faith and newneſs of Obedience, towards the Salvati<g ref="char:EOLhyphen"/>on of the Soul.</p>
+            </div>
+            <div n="10" type="part">
+               <head>
+                  <hi>X</hi> Concerning the Myſtery of Life, and the Myſtery of the fellowſhip which is therein.</head>
+               <p>God is hid from Man, as he lies in his ſinful and fallen eſtate: and no Man can find or know him; but as he pleaſeth to reveal himſelf by his own bleſſed Spirit. And Chriſt, being God's image there is no knowing or confeſſing him, or right calling him Lord, but in and by the ſame Spirit (1. <hi>Cor.</hi> 12, 3.) When he appeared in the days
+<pb n="78" facs="tcp:107901:41"/>
+of his fleſh, fleſh and bloud could not reveal him, but only the Father. And he is the ſame to day as he was yeſterday. He is not to be known now, but in the ſame Spirit; in his own Grace and Truth, in a meaſure of his own Life. The dead cannot know him; they only know him, who are his Sheep, who are quickned and made alive by him. And this Life is a Myſtery: none can underſtand it, but they that partake of it. Can a man that is naturally dead know what the Life of nature means? No more can a man that is ſpiritually dead, know what the Life of the Spirit means. The natural Man may get the words that came from Life, and cry up them, and ſpeak great words of the ſame of Wiſdom and of her Children: but the thing it ſelf is hid from them all. O it is a ſtrait gate, at which the birth en<g ref="char:EOLhyphen"/>ters, at which none elſe can enter. The wiſe and prudent knowers and ſearchers after the fleſh (and of the Scriptures, as they can put mean<g ref="char:EOLhyphen"/>ings upon them and comprehend them) are ſhut out in every age: but ther's a babe born of naked Truth (born of the pure ſimplicity) admitted by God, while men diſdain and deſpiſe it.</p>
+               <p>And the fellowſhip of the Saints is in the Life and in the Light, which is this Myſtery. The fellowſhip is not outward but inward. All they that meet together in the outward place, are not in the fellowſhip or worſhip: but only
+<pb n="79" facs="tcp:107901:41"/>
+they they meet together in the inward Life and Spirit. <hi>They that worſhip the Father, muſt worſhip him in Spirit and Truth.</hi> Look, ther's the worſhip, there are the worſhippers; They that are in the Spirit, in the Truth; They that meet in the Spirit, in the Truth, they meet together in the one ſpiritual place, as I may call it. And ſo we own no man after the fleſh, no man according to the appearance; but in the righteous judgment of the Spirit, thoſe only who are of the Spirit. Indeed we are ten<g ref="char:EOLhyphen"/>der, where there is the leaſt beginning of the work of God in any heart, yea where there is but ſo much as a conviction of the underſtand<g ref="char:EOLhyphen"/>ing: but Men are not preſently of us, who own our Principle in words or outward appear<g ref="char:EOLhyphen"/>ance, but only ſuch as are inwardly changed thereby in heart. It is true Perſons may walk a<g ref="char:EOLhyphen"/>mong us, &amp; afterwards go out from us, who were never of us (as it was in the Apoſtles days) that were never in the fellowſhip of Life with us, whom we could never own in the ſight of the the Lord, as being born of him; though we were willing to wait and watch for their good, that they might come to witneſs the true birth. Now from ſuch come the offences, even from the falling off of ſuch as never were truly in<g ref="char:EOLhyphen"/>graffed, and alſo from the ſlips of ſuch who are not watchful to that which preſerves. And wo is to the World, becauſe of the offences which
+<pb n="80" facs="tcp:107901:42"/>
+cannot but come. For they which are not ap<g ref="char:EOLhyphen"/>proved in the ſight of the Lord, muſt not ſome<g ref="char:EOLhyphen"/>what or other happen to make them manifeſt? And when they are made manifeſt, the World's eye is offended, and is apt to think hardly of and reproach the Truth it ſelf, becauſe of them. But bleſſed is the eye, which ſees into the My<g ref="char:EOLhyphen"/>ſtery, into the Life it ſelf, where there is no of<g ref="char:EOLhyphen"/>fence, but Truth is one and the ſame for ever.</p>
+            </div>
+            <div n="11" type="part">
+               <head>
+                  <hi>XI.</hi> Concerning Judging according to the ap<g ref="char:EOLhyphen"/>pearance, and Judging righteous Judg<g ref="char:EOLhyphen"/>ment. Judg not according to the ap<g ref="char:EOLhyphen"/>pearance <hi>(ſaid Chriſt)</hi> but Judg righ<g ref="char:EOLhyphen"/>teous Judgment, <hi>Joh. 7.24.</hi>
+               </head>
+               <p>What is it to Judg according to the appear<g ref="char:EOLhyphen"/>ance? and what is it to Judg righteous Judg<g ref="char:EOLhyphen"/>ment? I ſhall ſpeak what I have experienced, having been deeply exerciſed about this thing. Mark then.</p>
+               <p>The holy Spirit of Life breatheth upon the heart: and by his breathing and working there, he quickens and begets life, <hi>Joh.</hi> 3.8. And that which is begotten and born of him, is begotten and born into his nature, and ſo is of the ſame nature with him, as <hi>ver.</hi> 6 of that <hi>chap.</hi>
+               </p>
+               <p>
+                  <pb n="81" facs="tcp:107901:42"/>Now to that which is born of the Spirit, the Spirit is the leader, the preſerver, the ſupporter, the comforter, the daily quickner. He can do nothing without the Spirit, without the preſent Life and Power of him that begat him. So that all the judgment which the birth of Life hath, is from, and of, and in the holy Spirit of the Fa<g ref="char:EOLhyphen"/>ther.</p>
+               <p>And here is true Judgment, both concern<g ref="char:EOLhyphen"/>ing righteouſneſs and againſt all unrighteouſ<g ref="char:EOLhyphen"/>neſs. So that keep to the Life, keep to the Spi<g ref="char:EOLhyphen"/>rit, keep to the Birth, keep to the Power; then is the Wiſdom and righteous judgment of God revealed. But any that go out of this, and meaſure without this, they meaſure in the un<g ref="char:EOLhyphen"/>righteouſneſs: and though they ſearch the Scrip<g ref="char:EOLhyphen"/>tures, and think in themſelves they meaſure from the Scriptures; yet they are miſtaken, and mea<g ref="char:EOLhyphen"/>ſure but from their own knowledg and appre<g ref="char:EOLhyphen"/>henſions upon the Scriptures, as the Scribes and Phariſees did, when they ſeemed to conclude, upon ſearching the Scriptures, that Chriſt could not be the Meſſiah. <hi>Joh.</hi> 7.52. <hi>Search and Look</hi> (ſaid they) <hi>for out of Galilee ariſeth no Prophet.</hi> How then can this Galilean be he? See, by the Scriptures, if this can be the Chriſt.</p>
+               <p>It is ſaid of Chriſt, <hi>He ſhall not Judg after the ſight of his eyes, nor reprove after the hearing of his Ears: but with righteouſneſs ſhall he Judg &amp;c.</hi> Iſa. 11.3, 4. Chriſt Judged righ<g ref="char:EOLhyphen"/>teous
+<pb n="82" facs="tcp:107901:43"/>
+Judgment. How came he to Judg ſo? Why he judged in and with the Spirit. He kept to the Spirits judgment. The Spirit of the Lord reſt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d upon him, and made him quick of underſtanding in the fear of the Lord, <hi>ver.</hi> 2, 3. And no man can judg aright concerning the things of God, but in and by the ſame Spirit. How ſhall I know whether m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> duties be right my Prayers right, my waies right, m worſh p r ght, my faith right, my hope of the right kind, my knowledg and underſtanding of the Scriptures right, &amp;c? Why there is no e but one can de<g ref="char:EOLhyphen"/>termine. He who bege<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>teth life, know<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> whe<g ref="char:EOLhyphen"/>ther that which is in thee be from his life: and whether that which thou ofereſt to h m, be truly living or no. And when the Lord ſeparates the living from the dead, what will remain in many that make great pro<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſions at this day.</p>
+               <p>I would have no man miſtaken about theſe things. I know many are deeply miſtaken, as their own hearts will one day acknowledg, when the Lord ſhall make manifeſt to them, how they have called evil good, and g<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>od evil; and put darkneſs for light, and l ght for dark<g ref="char:EOLhyphen"/>neſs. Indeed it is juſt as it was in the dayes of Chriſt's appearing outwardly in a body of fleſh. The ſame Life, the ſame Spirit is deny<g ref="char:EOLhyphen"/>ed now, as was then. Then the Jews cryed up hriſt to come, but they then ſpiritually ſaw him not. They ſaw the fleſh: (or outward
+<pb n="83" facs="tcp:107901:43"/>
+form, but they ſaw not him who dwelt in that fleſh. And though the World of Chriſtians now acknowledg Chriſt is come and did appear; Yet neither do they know him who did appear, but deny his life, his Spirit, his vertue, his pow<g ref="char:EOLhyphen"/>er, which is revealed in this day of his love and goodneſs, to the eyes of the Children of the true Wiſdom. <hi>O let not fleſh Judg. Be ſilent, O all fleſh, before the Lord, and ceaſe judging: for he is ariſen to Judg. He is Judg in the midſt of his people, and he will Judg the Heathen alſo.</hi>
+               </p>
+               <p>And every one brings this near. Wait to feel fleſh judged in thee, and brought down in thee, that it may not Judg in thee: but Spirit and Life may be exalted and ſit upon the Throne in thy Heart. And when Life is exalted &amp; doth be<g ref="char:EOLhyphen"/>gin to Judg; Oh take heed of harkening to the fleſh, of letting in the Judgment of fleſh after<g ref="char:EOLhyphen"/>wards, leſt the Spirit be grieved and quenched! For the Wiſdom of the fleſh is near, and will be ſtriving to get in and recover its ſeat again: and if the watch be not ſingly kept to God's Holy Spirit, ſomewhat elſe will be judging in thee, which will Judg according to the appearance of things to thy mind, and ſo thou wilt miſs of the true and righteous judgment of God's Spirit.</p>
+            </div>
+            <div n="12" type="part">
+               <pb n="84" facs="tcp:107901:44"/>
+               <head>
+                  <hi>XII.</hi> A Queſtion anſwered about knowing God's Spirit.</head>
+               <p>Queſt. <hi>How ſhall I know God's Spirit? How ſhall I know the motions thereof? How may I know whether the Faith and Hope in my heart be from him? whether my prayers and deſires ariſe thence,</hi> &amp;c.</p>
+               <p>
+                  <hi>Anſw.</hi> No man of himſelf, or by any way he of himſelf can take, can know God's Spirit. There muſt firſt be a capa<g ref="char:EOLhyphen"/>city given, before any man can know the Spirit of the Lord; His Life, his Power muſt firſt be felt; and ſomewhat quickned, ſomewhat formed by him, ſomewhat begotten of him, which is ſpirit, and this can know him. Now man in this may know him, but out of this can never know him. Therefore this is the great ſkill, and diligence and wiſdom of a Chriſtian, to keep to this, to wait for this, to have his eye towards the pure ſpring of wiſdom; that when it ſprings, he may diſcern and receive it: and when that which is of a contrary nature ſprings, he may diſcern it under all its deceitful appear<g ref="char:EOLhyphen"/>ances, and turn from it. For out of the heart are the iſſues both of Life and Death. There is
+<pb n="85" facs="tcp:107901:44"/>
+all manner of deceivableneſs or unrighteouſneſs in the unrigh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eous nature in the unrighteous Spirit: and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f the watch be not diligently kept, it is eaſy to be deceived at any time. But the true Seed, the holy Seed, the Living Seed, the e<g ref="char:EOLhyphen"/>lect Seed, the immortal Seed is never deceived. O bleſſed are they who have their eyes opened and kept open in it, to diſcern the myſtery of Godlineſs, and the myſtery of Iniquity; that they may be preſerved ſafe in the one, out of the reach of the other.</p>
+            </div>
+            <div n="13" type="part">
+               <head>
+                  <hi>XIII.</hi> Some <hi>Queries</hi> concerning the Seed of the Kingdom, in which the Kingdom it ſelf is contained (as the nature and ſubſtance of things is contained in the Seed there<g ref="char:EOLhyphen"/>of) and out of which it ſpringeth up and ariſeth in the heart.</head>
+               <p>
+                  <hi>Quer.</hi> 1. What is that Seed which is ſpoken of 1 <hi>Joh.</hi> 3.9. which remaineth in thoſe that are born of God, and preſerveth out of ſin, thoſe that are led by it and comprehended in it? is it not the Seed of the Kingdom?</p>
+               <p>
+                  <hi>Quer.</hi> 2. Do not the natural herbs and flowers, the natural plants and trees grow from a natural Seed? Do not the ſpiritual plants, the
+<pb n="86" facs="tcp:107901:45"/>
+ſpiritual trees, the trees of righteouſneſs grow from the Seed of righteouſneſs?</p>
+               <p>
+                  <hi>Quer.</hi> 3. Was it not the great doctrine of Chriſt, to preach the Kingdom? And how did he preach it? did he not preach it as a Seed, as a grain of Muſtard-Seed? and did not be liken this Spiritual Seed to leaven, to a precious pearl, to treaſure hid in a field, to a piece of ſilver loſt &amp;c. O how happy is he, who knows and en<g ref="char:EOLhyphen"/>joyes the thing it ſelf which Chriſt preached! All the prophets propheſied concerning him: and when he comes this was his doctrine, that men ſhould mind this, look after this, purchaſe this, poſſeſs this, feel this planted and grow up in them, and themſelves ingraffed into and grow<g ref="char:EOLhyphen"/>ing up in it.</p>
+               <p>
+                  <hi>Quer.</hi> 4. Can any man be born of God, and not born of this Seed? can any man be born of this Seed, and not born of God?</p>
+               <p>
+                  <hi>Quer.</hi> 5. How doth Grace and Truth come by Jeſus Chriſt? Doth it not grow up from this Seed? Can it grow up any other way in any heart?</p>
+               <p>
+                  <hi>Quer.</hi> 6. Is not Salvation felt and witneſſed in every heart (of thoſe that are in any meaſure redeemed) as this Seed grows up and overſha<g ref="char:EOLhyphen"/>dows them? Was not this the Salvation ready to be revealed in the laſt time, 1 <hi>Pet.</hi> 1.10. whereof the Apoſtle <hi>Pe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er</hi> himſelf was made a partaker? <hi>Chap.</hi> 5.10. In the law were the
+<pb n="87" facs="tcp:107901:45"/>
+ſhadows of good things to come: but in the goſpel the ſubſtance, the Seed it ſelf it reveal<g ref="char:EOLhyphen"/>ed.</p>
+               <p>
+                  <hi>Quer.</hi> 7. Is it not the right beginning in Re<g ref="char:EOLhyphen"/>ligion, to begin in the Spirit? and can any be<g ref="char:EOLhyphen"/>gin in the Spirit, but he that begins in and with the Seed of the Kingdom?</p>
+               <p>
+                  <hi>Quer.</hi> 8. Is it not the main and chief thing in Religion, to know this Seed, to feel this Seed, to be joyned to this Seed and abide in this Seed?</p>
+               <p>
+                  <hi>Quer.</hi> 9. Is not all that flows from this Seed, true and certain? is not the Know<g ref="char:EOLhyphen"/>ledg certain here? the Faith here? the Love here? the Peace here? the Joy here? the the Righteouſneſs here? From this true root, can there grow or ſhoot forth any thing, but that which is true? O, every breathing here is from pure Life, and precious in the eye of the Father. Is there any certainty elſewhere? O, when the Lord appears, will he not diſown all the religion and worſhip, which is not of this growth?</p>
+               <p>
+                  <hi>Quer.</hi> 10. But ſome may ſay, how may I know this Seed, and how may I be joyned to it?</p>
+               <p>
+                  <hi>Anſw.</hi> In the quickning Life mayeſt thou know it, and no-where elſe. Didſt thou ever feel that which quickned thy heart towards the Lord? Therein and thereby, at that time, thou mayeſt feel an eye and heart opened, which can
+<pb n="88" facs="tcp:107901:46"/>
+truly ſee and know ſomewhat of God. And (keeping thy eie to the quickning power of God, as that ſtirs, moves and operates in thee and up<g ref="char:EOLhyphen"/>on thee, thou mayeſt know again and know more. Therefore eye the power which quickens, and eye the Seed which it reveals and raiſeth in thee, and wait to feel the power ſubjecting thee to the Seed, that thou mayeſt come under it, and it may come over thee, and preſs down in thee all that is contrary to its pure nature. And as thou comeſt hither, thou wilt find that which death hath no power over: and as thou abideſt there, thou ſhalt find it to have no power over thee. F r, of a truth, in the holy Covenant of Life and Peace, death never had nor can have power: but he who abideth in him who is the Covenant, who is the ſheepherd, who is the Love, who is the Wiſdom and Power of God, witneſſeth there a ſure defence and ſtrong tower, where Salvation is for a Wall and Bulwark againſt the Enemy, There are many ſorts of talkers concerning the thing, but there are few travellers into it: but he alone who is a true traveller into it, and takes up his reſt there, certainly knows and can truly witneſs what is to be found there. And this is the reaſon that ſo many (who ſeem great and expe<g ref="char:EOLhyphen"/>rienced knowers) cannot receive our teſtimony, becauſe they know neither the Seed nor its voice, concerning which and whereby we teſtify. But
+<pb n="89" facs="tcp:107901:46"/>
+Wiſdom is Juſtified of her Children; and they that know the voice of the Sheepherd, know his preſent appearance in this our day, which is contrary to the Wiſdom and Knowledg of all other Seeds and Births whatſoever. <hi>He that hath an Ear to hear, let him hear:</hi> But he that hath not the true Ear, cannot hear the true te<g ref="char:EOLhyphen"/>ſtimony, though it ſhould never ſo often be de<g ref="char:EOLhyphen"/>clared unto him. But bleſſed is he that knows and ſtumbles not at the appearances of the Seed and Power of Life in his own heart, but is turn<g ref="char:EOLhyphen"/>ed from the Darkneſs to the Light there, and from the Power of <hi>Satan</hi> to the manifeſtation of God's Spirit there: for the end of words (even of Chriſts own directions in the days of his fleſh) is to turn men to the holy Life and Power from whence the words came, and thither man is to travel, and therein to center, waiting on the Lord in the way of his Judgments and ten<g ref="char:EOLhyphen"/>der Mercies, to witneſs a tranſlation from Dark<g ref="char:EOLhyphen"/>neſs to Light, and from the Kingdom of Satan into the Kingdom of the dear Son, which King<g ref="char:EOLhyphen"/>dom is at firſt but as a grain of muſtard-Seed, and muſt be ſo known and ſo received. And now let every ſerious heart examine concerning himſelf. Doſt thou know the Kingdom? is the Seed grown in thee? Doth it overſpread thee? Art thou in it as in a Kingdom? Doſt thou feel it overſhadowing thee? Art thou in unity with it? Doth it ſpeak Peace to thee from the Lord?
+<pb n="90" facs="tcp:107901:47"/>
+Is the Wall of partition broken down in thee? is there of twain made one new man? Doſt thou feel that which is contrary to Chriſt ſubdued in thee by his power? and his holy nature, Life, and Spirit reigning over it? Canſt thou read that Scripture ſenſibly and experimentially, <hi>If ye through the Spirit mortify the deeds of the bo<g ref="char:EOLhyphen"/>dy, ye ſhall live?</hi> Ah how miſerably do men talk of Chriſt, the Power of God, and miſs of the effect and work of his Power in them? Faith is a powerful thing, it gives victory, (true Faith gives victory) it ſcatters that which ſtands between, and gives real acceſs to God, and lets in his pure, freſh living Vertue, upon the heart. Love is a powerful thing, it conſtrains to Obe<g ref="char:EOLhyphen"/>dience: and the heart that is circumciſed to love the Lord God, O how doth Life flow from him into it! O, away with empty notions, and come to the miniſtration of the Spirit, where the Knowledg is living, the Faith victorious, the Love pure and undefiled, the Worſhip truly ſpiritual, even flowing from and comprehended in the Life and Vertue of the Spirit. O that all that truly breath after the Lord, might be ga<g ref="char:EOLhyphen"/>thered hither, found here and dwell here, <hi>Amen.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="postscript">
+            <pb n="91" facs="tcp:107901:47"/>
+            <head>A POST-SCRIPT To the Experiences.</head>
+            <p>PErſons that have had ſome true touches of Life and true breathings after the Lord; yet not having their eye fixed rightly upon him, nor diſcerning from whence thoſe come, may ea<g ref="char:EOLhyphen"/>ſily loſe the true ſenſe of Life, and another birth of another nature ſpring up in them, in<g ref="char:EOLhyphen"/>ſtead thereof. This was it we generally want<g ref="char:EOLhyphen"/>ed, in the day of our former profeſſion, even the diſcerning of that and fixing upon that, which begat Life in us: through want whereof, many of the moſt tender-hearted came to a loſs; whom the Lord at length ſhewed mercy to, manifeſting to them the Light of their eyes, and the ſtay of their Souls. Now to all that have been gathered hither by the Lord, Life hath been renewed, and their former experiences (of the Lord and his goodneſs to them in the Lord Jeſus Chriſt) reſtored again with advan<g ref="char:EOLhyphen"/>tage. And here they ſenſibly ſee and daily ex<g ref="char:EOLhyphen"/>perience that nothing is of their own works, but all of Grace and Mercy in and through Chriſt, in whom they are created unto good works,
+<pb n="92" facs="tcp:107901:48"/>
+which God before ordained that we ſhould walk in them. And here the glory is revealed; the glory of Life, the glory o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Peace with the Lord, the glory of R ghteouſneſs in and through his Son, he glory o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Victory over the S<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> ene<g ref="char:EOLhyphen"/>mies, and of leading captivity cap<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> treading upon the Necks of Kings, even of mighty luſts, which mightily revailed over and oppreſſed the Soul, before the Cap<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ain of our Salvation appeared, in the power and au<g ref="char:EOLhyphen"/>thority of his own Spirit. But bleſſed be the Lord, there is not only this Glory revealed, but there is a defence over the Glory: For there is that revealed, which is able to defend it, and doth defend it in the hearts of many, and in the living aſſemblies which have been gathered by God's Holy Power, which holy Power (which gathered) daily quickens and overſhadows, and is a rock unto, and will be ſo for ever, even to all that abide with him in his Holy Covenant: but out of the limits of that into which God ga<g ref="char:EOLhyphen"/>thers, and wherein and whereby he preſerves, there is no defence to any. The curſed thing, the unclean thing, the earthly Spirit, the earth<g ref="char:EOLhyphen"/>ly Mind and Wiſdom, the Lord hath excluded, and it is to be excluded out of his camp for ever<g ref="char:EOLhyphen"/>more, that the inward Iſrael may be kept holy to the Lord, and may ſerve and worſhip the Lord in the beauty of the inward holineſs, as the outward Iſrael was outwardly to be and to
+<pb n="93" facs="tcp:107901:48"/>
+do, in that outward miniſtration of the ſhadows of the Goſpel-ſtate.</p>
+            <div type="part">
+               <head>Some Scriptures very ſweet, and neceſ<g ref="char:EOLhyphen"/>ſary to be experienced in the Goſpel-State.</head>
+               <p>
+                  <hi>This is Life eternal, that they might know thee the only true God, and Jeſus Chriſt whom thou haſt ſent,</hi> Joh. 17.3. There is a know<g ref="char:EOLhyphen"/>ledg of God and Chriſt, which is Life eternal: and there is a knowledg of them (or at leaſt that which man call ſo) which is not Life eternal. The knowledg which is Life Eternal, is that knowledg which God gives to his own birth, even the ſpiritual knowledg which God gives to thoſe which are born of the Spirit: which is the know<g ref="char:EOLhyphen"/>ledg of the myſtery of God, and of Chriſt in the miſtery, inwardly appearing and working in the heart againſt the myſtery of Sin and death. O precious is the birth to which God gives this this knowledg, and precious is the knowledg which he giveth to it! The knowledg (or that which Men call knowledg) which is not life e<g ref="char:EOLhyphen"/>ternal, is that knowledg which man can get and comprehend from without, of himſelf; without the enlightnings and quicknings of God's Holy
+<pb n="94" facs="tcp:107901:49"/>
+Spirit and Power, inwardly felt and operating in the heart.</p>
+               <p>
+                  <hi>No man can ſay that Jeſus is the Lord, but by the holy Ghoſt,</hi> 1 Cor. 12.3. It is precious to witneſs that confeſſing and acknowledging Je<g ref="char:EOLhyphen"/>ſus to be the Lord, which is by the Holy Ghoſt. For only they that are governed by the Holy Ghoſt, can ſo confeſs him. The Devil did con<g ref="char:EOLhyphen"/>feſs Jeſus to be the holy one, the Son of the liv<g ref="char:EOLhyphen"/>ing God, <hi>&amp;c.</hi> and many now confeſs Jeſus to be Lord, in the ſame Spirit, being alienated from the Life of God, and having no true ſenſe or underſtanding of that. But there is a confeſ<g ref="char:EOLhyphen"/>ſion which cannot ariſe, but from God's Spirit; and from the knowledg, ſenſe and underſtand<g ref="char:EOLhyphen"/>ing which he gives: bleſſed are they that expe<g ref="char:EOLhyphen"/>rience that.</p>
+               <p>
+                  <hi>It is written in the prophets, and they ſhall be all taught of God. Every man therefore that hath heard, and hath learned of the Father, cometh unto me,</hi> Joh. 6.45. Ah, bleſſed is he that can in time underſtanding ſay, The Lord hath made good this Pr<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſe to me! He is become my Teacher. I have heard his voice, as truly and certainly, inwardly in my heart, as ever I heard the voice of Satan here. He hath revealed his Son, his pure, holy, living Child Jeſus in me. He hath drawn me to his Son, he hath taught me to come to his Son: and indeed ſo ſoon as ever I heard and learned of the Father, I could not
+<pb n="95" facs="tcp:107901:49"/>
+but come to the Son, and receive the Son, and and give up my ſelf to him: and he hath recei<g ref="char:EOLhyphen"/>ved me, and daily preſerveth me from death, and the ſting and power thereof, and giveth un<g ref="char:EOLhyphen"/>to me Eternal L fe.</p>
+               <p>
+                  <hi>He that hath the Son hath Life; and he that hath not the Son hath not Life</hi> 1 Joh. 5.12. Ah, this is abundantly experienced, bleſſed be the name of the Lord! Many who had not life, while they had not the Son, but mourned and lamented deeply after him (the Spirit of the Lord being grieved in them, and his life not poſ<g ref="char:EOLhyphen"/>ſeſſed by them) the Father revealing his Son in them, and giving him to them, and they enjoy<g ref="char:EOLhyphen"/>ing and poſſeſſing him, feel that they are daily in the enjoyment and poſſeſſion of pure and freſh Life in him.</p>
+               <p>
+                  <hi>My fleſh is Meat indeed and my <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>loud is Drink indeed. He that eateth my Fleſh and drinketh my Bloud, dwelleth in me, and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>in him,</hi> Joh. 6.55.56. We are of his Fleſh and of his Bone, ſaid they that did eat his Fleſh, and drink his Bloud. They that eat Chriſt the one bread, are by that Food made partakers of his divine nature, and become one bread (for we being many are one bread as ſaid the Apoſtle) ſo that now they are no longer darkneſs, but Light in the Lord. O the pure fleſh and bloud of the immaculate Lamb! O the incorruptible food, which gives Life to the Soul? O the living word? O the milk of this
+<pb n="96" facs="tcp:107901:50"/>
+word, the Milk of the heavenly breaſt, which nouriſheth the babes? but the bread, the fleſh, the Bloud is ſtronger nouriſhment. O how brightly might this be opened, in the demon<g ref="char:EOLhyphen"/>ſtration of Life. to the ſpiritual ear and under<g ref="char:EOLhyphen"/>ſtanding! but the carnal-minded are thick and groſs, being drowned in their own apprehenſi<g ref="char:EOLhyphen"/>ons and ſenſe of the letter, but having no ſenſe of the myſtery what it is myſtically to Eat and Drink the Fleſh and Bloud of Chriſt (of him who is Life, and gives Life) and to dwell toge<g ref="char:EOLhyphen"/>ther with him in the one Spirit, Light, Life and Power eternal.</p>
+               <p>
+                  <hi>For with thee is the Fountain of Life; in thy Light ſhall we ſee Light,</hi> Pſal. 36.9. Oh, bleſ<g ref="char:EOLhyphen"/>ſed are they, that can experimentally ſpeak thus, who know the Fountain of Life, and dwell there, where Light Shines more and more.</p>
+               <p>
+                  <hi>Ho every one that thirſteth, come ye to the wa<g ref="char:EOLhyphen"/>ters, and he that hath no money come ye, buy and Eat, yea come, buy Wine and Milk without mo<g ref="char:EOLhyphen"/>ney, and without price. Wherefore do ye ſpend Money for that which is not bread? and your labour for that which ſatisfieth not? hearken di<g ref="char:EOLhyphen"/>ligently unto me, and Eat ye that which is good, and let your ſoul delight it ſelf in fatneſs. Incline your ear, and come unto me: hear and your ſoul ſhall live, and I will make an everlaſting Cove<g ref="char:EOLhyphen"/>nant with you, even the ſure mercies of David;</hi>
+                  <pb n="97" facs="tcp:107901:50"/>
+Iſa. 55.1, 2, 3. Here's happineſs, true hap<g ref="char:EOLhyphen"/>pineſs, full happineſs. He that experiences this one portion of Scripture, is happy. He that knows the true thirſt after the true waters, and comes to the waters which he thirſts after, and knows how to buy, and hath bought the Wine and Milk which is to be had at the waters (Oh, who knows what this buying is! This is be<g ref="char:EOLhyphen"/>yond all talk and outward profeſſion concern<g ref="char:EOLhyphen"/>ing: he thing concerning the precious pearl, this is the real, hearty trafficking of the wiſe Mer<g ref="char:EOLhyphen"/>chant for it.) And then to hearken diligently and eat that which is good, and to have the ſoul delight it ſelf in the fatneſs of God's Houſe, in the riches and fatneſs of his Goodneſs and Mercy in Chriſt Jeſus: and not only to taſte of Mercy, but to witneſs it ſure in the everlaſting Covenant, that God will never be wroth with me more, never be a ſtranger to me more, never depart from me more, nor ſuffer me to depart from him, but preſerve me pure and chaſt to him, through his love ſhed abroad in my heart, and his holy fear, which conſtrains me to abide with him, and to keep his Com<g ref="char:EOLhyphen"/>mandments.</p>
+               <p>
+                  <hi>But whoſoever drinketh of the water that I ſhall give him, ſhall never thirſt: but the water that I ſhall give him, ſhall be in him a Well of Water ſpringing up into everlaſting Life,</hi> Joh. 4.14. Is not this an univerſal Promiſe to be made
+<pb n="98" facs="tcp:107901:51"/>
+good to every one that drinks of the water of Life, of the water that Chriſt gives? Did not Chriſt promiſe it ſhould be a Well? a ſpring<g ref="char:EOLhyphen"/>ing Well? The Fountain is of a ſpringing na<g ref="char:EOLhyphen"/>ture: and is not every drop of the ſame nature? of a living nature, of a ſpringing nature? He that rightly drinks, doth he not receive a Well? O the Water which Chriſt giveth, doth it not become a Well in the true diſciple, in the liv<g ref="char:EOLhyphen"/>ing diſciple? out of which Well the Water is ſtill ſpringing and flowing, to nouriſh up with Life and unto Life, even with Life of an ever<g ref="char:EOLhyphen"/>laſting nature, and unto Life everlaſting. O the pure glory that is revealed in the Goſpel-diſ<g ref="char:EOLhyphen"/>penſation! why is it ſo hid from mens eyes, who profeſs themſelves to know the Lord Jeſus Chriſt, and to be his diſciples?</p>
+               <p>
+                  <hi>For the Life was manifeſted, and we have ſeen it, and bear witneſs, and ſhew unto you that eternal Life which was with the Father, and was manifeſted unto us. That which we have ſeen and heard, declare we unto you, that ye al<g ref="char:EOLhyphen"/>ſo may have fellowſhip with us; and truly our fellowſhip is with the Father, and with his Son Jeſus Chriſt,</hi> 1 J h. 1. v. 2, 3. This is precious, to experience the Life inwardly manifeſted, and to come out of death inwardly felt, into Life inwardly manifeſted, and ſo to come into the holy fellowſhip with the Father and Son, and with the Saints in Light: for he that comes
+<pb n="99" facs="tcp:107901:51"/>
+out of the darkneſs into the Light, comes out of the Fellowſhip of the dead, into the Fellow<g ref="char:EOLhyphen"/>ſhip of the Living.</p>
+               <p>
+                  <hi>Come unto me all ye that labour and are heavy-laden, and I will give you reſt. Take my yoke upon you, and learn of me, for I am meek and lowly in heart: and ye ſhall find reſt unto your ſouls. For my Yoke is eaſy and my Burthen is light.</hi> Mat. 11.28, 29, 30. This invitation of Chriſt was to be fulfilled in the hearts of his diſciples, &amp; it is precious inwardly to witneſs it effectually in the heart, as really as ever it was ſpoken by him. To be able to ſay, in the evidence and demon<g ref="char:EOLhyphen"/>ſtration of his Spirit; It is true, I did labour, I was heavy-laden, none could eaſe or help me; till he called, till he knocked at the door of my heart, and till I came to him, and received him in: and he hath made good his word to my ſoul, he hath given me reſt from my labours and heavy Loads. He hath laid his Yoke upon me, and I have took it and born it, and have learn<g ref="char:EOLhyphen"/>ed of him, to be meek and lowly in heart, like him, and I have found reſt to my Soul. And now I ſhall never complain more of his yoke or burthen, he hath made it, and doth daily make it ſo eaſy and light to me.</p>
+               <p>
+                  <hi>And we know that the Son of God is come, and hath given us an underſtanding that we may know him that is true: and we are in him that is true
+<pb n="100" facs="tcp:107901:52"/>
+even in his Son Jeſus Chriſt. This is the true God and eternal Life,</hi> 1 Joh. 5.20. There is an inward, ſpiritual coming of the Son of God into the heart, by which Coming (to them that receive him) he giveth a new and Spiritual underſtand<g ref="char:EOLhyphen"/>ing, whereby they know him that is true (and without it they cannot) and are ingraffed into him, a d found in him; partaking of his Life and righteouſneſs, to the glory of God the Father: and ſo in true underſtanding are able to ſay, <hi>Lo this is the God, this is the Saviour we waited for. This is the true or very God, and Eternal Life.</hi> What are all notions about God, and about his Son Chriſt Jeſus, to this inward ſenſe and experience of them?</p>
+               <p>
+                  <hi>God who commanded the Light to ſhine out of darkneſs, hath ſhined in our hearts, to give the Light of the knowledg of the glory of God, in the face of Jeſus Chriſt,</hi> 2. Cor. 4.6. O how pre<g ref="char:EOLhyphen"/>cious is it to be able to witneſs this in meaſure! to experience God ſhining upon my tabernacle (as <hi>Job</hi> ſpeaks, <hi>Job</hi> 29.2, 3) and by his Light my walking through darkneſs! It is true, Chriſt was the Light, he had the fulneſs of Light, and the Apoſtles a very great proportion; but bleſſed be the Lord I have received ſome, and am chan<g ref="char:EOLhyphen"/>ged by it, and become light in the Lord, and walk with God and dwell with God in the light, even as he is Light and dwels and walks in the
+<pb n="101" facs="tcp:107901:52"/>
+Light. Is not this a bleſſed teſtimony? and is not he bleſſed who can ſet his ſeal to it?</p>
+               <p>
+                  <hi>Which veil is done away in Chriſt,</hi> 1 Cor. 3.14. It was promiſed of old, that in the moun<g ref="char:EOLhyphen"/>tain where God would make the Feaſt of fat things, he would deſtroy, ſwallow up or do a<g ref="char:EOLhyphen"/>way the veil, or that which veils the Life and Glory of the Lord from man, and hinders it from being revealed in him, <hi>Iſa.</hi> 25.6.7. Now in Chriſt there is no veil. In his Light, Life, Spirit and Power, there is no veil. Where they are inwardly manifeſted and received, the veil is done away, and the glory of the myſtery revealed and beheld.</p>
+               <p>
+                  <hi>If ye continue in my Word, then are ye my diſci<g ref="char:EOLhyphen"/>ples indeed and ye ſhall know the truth &amp; the truth ſhall make you free,</hi> Joh. 8.31, 32. What is this word which the diſciples of the Lord Jeſus Chriſt are to continue in? Is it any leſs than Spirit and life? And wh t is it to be a diſciple indeed, but to learn the Law of Life at his mouth, and to continue therein? And what is the truth which makes free? Is it not the liv<g ref="char:EOLhyphen"/>ing truth (the word which lives and abides for ever) the powerful truth, the operative truth? This cuts between a man and his lovers, this di<g ref="char:EOLhyphen"/>vides between Soul and Spirit, Joints and mar<g ref="char:EOLhyphen"/>row, and makes the Soul free from that evil Spirit which had embondaged it. It Sanctifi<g ref="char:EOLhyphen"/>eth, it cleanſeth, it reneweth, it quickneth,
+<pb n="102" facs="tcp:107901:53"/>
+it giveth ſtrength, it maketh free from the Souls enemies, from the bondage of ſin and corrupti<g ref="char:EOLhyphen"/>on, and brings into the glorious liberty of the Sons of God. And they that are made free from ſin by that which is contrary to <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n, and which ſubdues, overcomes and deſtroys ſin; they doubtleſs are free indeed. O precious is it to ex<g ref="char:EOLhyphen"/>perience this, even the truth that is free from ſin, and makes free from ſin all that truly know it, and are joyned to it, and live and abide in it!</p>
+               <p>
+                  <hi>For ſin ſhall not have dominion over you: for ye are not under the Law, but under grace,</hi> Rom. 6.14. What's the Law? What's the miniſtrati<g ref="char:EOLhyphen"/>on of the Law? Is it not the miniſtration of the letter? of that which is holy and righteous by an outward or litteral Command? What's Grace? Is it not the inward teacher, which inwardly inſtructeth to deny ungodlineſs and worldly luſts, and to live Soberly, Righteouſly and Godlily, &amp;c. Is it not the miniſtration of the Spirit and Power? Is it not the miniſtration of the new Covenant, where the Law of the Spi<g ref="char:EOLhyphen"/>rit of Life in Chriſt Jeſus is written in the heart, and the commandement of Life made eaſy, by the power of the Lord Jeſus, who manifeſts himſelf within, to mak<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> willing unto and to ſtrengthen to obedience? Now they that are under this Grace, under this Spirit, under this Power; doth it not break the power and domi<g ref="char:EOLhyphen"/>nion of ſin in them, and ſet them free therefrom?
+<pb n="103" facs="tcp:107901:53"/>
+Can ſin break in upon thoſe, who dwell under the ſhadow of the Almighty? Indeed a man may be under a literal diſpenſation of holy Commands againſt ſin, and yet be under the po<g ref="char:EOLhyphen"/>wer of Sin: but he that is gathered under the wing of Chriſt, under the Grace and Spirit of the Goſpel, turned from <hi>Satans</hi> power to God's Power, and within the Wall and Bulwark thereof; he witneſſeth this true; <hi>Sin hath not Dominion, Sin cannot have Dominion, Sin ſhall not have Dominion over you;</hi> no device of the enemy ſhall be able to hurt or deſtroy on Gods holy Mountain, for his Light ſhines there to di<g ref="char:EOLhyphen"/>ſpel the darkneſs, and his power is revealed there to ſcatter and daſh in pieces the ſtrength of the enemy, whenever it appears.</p>
+               <p>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>pon all the glory ſhall be a defence,</hi> Iſa. 4.5. O the Lord God, by the Spirit and Power of the Goſpel, in the day thereof, is bringing many Sons to Glory: into Great, Inward, Spiritual Glory; yea into exceeding Glory (For the mini<g ref="char:EOLhyphen"/>ſtration of the Spirit exceeds in glory.) And as God hath ordained this glorious miniſtration for his Sons and daughters under the New Covenant: ſo by the Spirit and Power of the New Co<g ref="char:EOLhyphen"/>venant, when it breaks forth, he is daily work<g ref="char:EOLhyphen"/>ing, tranſlating and changing them, out of the earthly nature and image, into his own divine nature, into his own heavenly Glory. 2 <hi>Cor.</hi> 3.18. And bleſſed be the Lord, the defence
+<pb n="104" facs="tcp:107901:54"/>
+of his power is ſpread over the glory of his holy Mountain, ſo that nothing can make a prey of or devour the birth of life, or deprive of the in<g ref="char:EOLhyphen"/>heritance of Life there. The Lord doth not only give a bleſſed lot, and lines in pleaſant places: but he maintains the lot of his Children, ſo that they can dwell in their Fathers Houſe, and feed on the Heavenly Food and rich dainties of the Kingdom, in the majeſty of the name of the Lord their God, which is ſuch a dread unto the enemies, and ſuch a defence about them, as none can make afraid: but they are kept in perfect Peace, in perfect reſt, in pure Love, out of which Life ſprings and flows continually.</p>
+               <p>
+                  <hi>And in that day thou ſhalt ſay, O Lord, I will praiſe thee, though thou waſt angry with me, thine anger is turned away and thou comforteſt me. Behold, God is my Salvation: I will truſt and not be afraid; for the Lord Jehovah is my ſtrength and Song, he alſo is become my Salvation. There<g ref="char:EOLhyphen"/>fore with Joy ſhall ye draw water out of the Wells of Salvation,</hi> Iſa. 12.1, 2, 3. O precious; to witneſs the inward Spiritual day of redemption and deliverance, wherein praiſes from a living ſenſe naturally ſpring up to the Lord! To wit<g ref="char:EOLhyphen"/>neſs the reproofs at an end, the anger, indig<g ref="char:EOLhyphen"/>nation, trouble and ſorrow at an end, and the comforter come; miniſtring Peace, Joy, and Comfort to the Soul. Ah, when the Lord is felt, the Salvation (his peſence, his Power, his
+<pb n="105" facs="tcp:107901:54"/>
+Life, his Vertue the Salvation) when Faith ſprings towards him, and the fear of the enemy (or concerning the enemy) is baniſhed; when he is experienced to be the Soul's daily ſtrength a<g ref="char:EOLhyphen"/>gainſt him; yea and doth ſo deliver, that inſtead of the former fear, becauſe of the fury and op<g ref="char:EOLhyphen"/>preſſion of the enemy, the Soul can now ſing; becauſe of that ſtrength and heavenly authority which the Lord putteth forth and exerciſeth in the heare againſt him! When the Well of Life, the Well of Salvation, the Saviours Well is kept open, and the Philiſtins, the uncircum<g ref="char:EOLhyphen"/>ciſed Spirit, Power and nature caſt out, that they can ſtop it no more; but the ſoul can draw the water of Life, out of the Well and Fountain of Life with Joy; Ah then the Goſpel-diſpen<g ref="char:EOLhyphen"/>ſation is indeed known, and the bleſſed eſtate thereof witneſſed and experienced!</p>
+               <p>
+                  <hi>I counſel thee to buy of me Gold tryed in the Fire, that thou mayeſt be rich, and white raiment, that thou mayeſt be cloathed, and that the ſhame of thy nakedneſs do not appear, and anoint thine eyes with eye-ſalve, that thou mayſt ſee,</hi> Rev. 3.18. What is the Gold tryed in the fire, which man is to buy of Chriſt, that he may be made rich therewith? What is the white raiment, which the ſoul is to be clothed with, without which it is naked in God's ſight, and in the ſight of the truly diſcerning; and there is a time, when the ſhame of its nakedneſs will appear more ge<g ref="char:EOLhyphen"/>nerally,
+<pb n="106" facs="tcp:107901:55"/>
+as it doth already to the eye of the ſpiritual man, who Judgeth all things? What is the eye-ſalve, wherewith the eye is to be a<g ref="char:EOLhyphen"/>nointed, or it cannot ſee? Is it not precious to purchaſe this Gold and Raiment of Chriſt, and to have this eye-ſalve to anoint the eye with, and to keep it open that it may daily ſee its way, and walk in the Light of the Lord? Certainly this is all inward and Spiritual, as a remnant witneſs it this day; Glory to the Lord God.</p>
+               <p>
+                  <hi>But the anointing which ye have received of him, abideth in you and ye need not that any man teach you: But, as the ſame anointing teacheth you of all things and is truth, and is no lie: and even as it hath taught you, ye ſhall abide in him,</hi> 1 Joh. 2.27. The outward anoint<g ref="char:EOLhyphen"/>ing was a ſhadow of the inward, and had a glory in it, under the diſpenſation of the Law and the inward anointing in the Goſpel-diſ<g ref="char:EOLhyphen"/>penſation is Spiritual and Divine, and exceed<g ref="char:EOLhyphen"/>ing glorious. Chriſt, the anointed one, a<g ref="char:EOLhyphen"/>noints all his. No being a Son, without being begotten by the Spirit and Power of the Father: and no abiding a Son, but by the Virtue and Power of the ſame Spirit, remaining in and with the Soul, ſo that every Son receives of the anoint<g ref="char:EOLhyphen"/>ing of the Father: Chriſt received the Spirit, the fulneſs, that he might give to them a proporti<g ref="char:EOLhyphen"/>on. Now to experience this anointing, and to experience it abiding, and teaching all things,
+<pb n="107" facs="tcp:107901:55"/>
+and to know this voice, the voice of the Sheep<g ref="char:EOLhyphen"/>herd, the voice of the anointing, which the Sheep ſtill finds to be true and no lye; and to abide in the Vine, in the Life, in the Spirit, in the Power, as this Spirit or Anointing teacheth: Oh here's the ſweet ſtate, the clear ſtate, the bleſſed ſtate! Here the Promiſes and Bleſſings are Yea and Amen in Chriſt, and the Soul can ſay, He is Faithful and Juſt who hath Promiſed, who hath opened the treaſures of Life to his Family, to his Houſe, to his Children to his Servants; and bleſſeth them with all Spiritual bleſſings, in heavenly things in Chriſt.</p>
+               <p>
+                  <hi>Surely his Salvation is nigh them that fear him; that Glory may dwell in our Land; Mercy and Truth are met: Righteouſneſs and Peace have kiſſed. Truth ſhall ſpring out of the earth: and Righteouſneſs ſhall look down from heaven. Yea the Lord ſhall give that which is good: and our Land ſhall yield her increaſe. Righteouſneſs ſhall go before him: and ſhall ſet us in the way of his ſteps,</hi> Pſal. 85.9. to the end. Is it not preci<g ref="char:EOLhyphen"/>ous to witneſs that fear of God in the heart, to which Salvation is nigh, and the Land wherein Glory dwells? Where Mercy and Truth meet, Righteouſneſs and Peace kiſs? Where Truth ſprings out of the Earth, and Righteouſneſs looks down from Heaven? Where God gives that which is good, and the Land of the Living yields the increaſe of Life to him? Where righ<g ref="char:EOLhyphen"/>teouſneſs
+<pb n="108" facs="tcp:107901:56"/>
+goes before him, and he ſets his in the way of his ſteps? Where the Lamb goes before; and the way is not known, but as the Lamb goes before, and leads into it? Where God is the Sheepherd, and the Soul doth not want, becauſe he maketh it to lie down in pa<g ref="char:EOLhyphen"/>ſtures of tender graſs and leadeth by the waters of quietneſs (where it drinks of the brook in the way) and in the paths of righteouſneſs for his names ſake? ſee <hi>Pſal.</hi> 23. Is there not a King<g ref="char:EOLhyphen"/>dom of darkneſs, a Land of iniquity inwardly? and do not they they that dwell here, and ſit there, dwell in darkneſs, and ſit in the region and ſhadow of death? And is there not a tra<g ref="char:EOLhyphen"/>vel out of this Land, into the holy Land (the Land of Light, the Land of the Living) and a tranſlation out of this Kingdom, into the King<g ref="char:EOLhyphen"/>dom of the dear Son? And is not God the Sheepherd there? Chriſt the Biſhop of the Soul there? and doth not he overſee and take care of ſouls there, leading them into freſh pa<g ref="char:EOLhyphen"/>ſtures, and by the ſoft flowing waters? Is not Salvation nigh there, yea round about that Land? doth not Mercy and Truth meet there? Righteouſneſs and Peace kiſs there? yea doth not the glory of the moſt high dwell in, and overſhadow that Land? Is not the eye of the Lord upon it for good, from one end of the year to the other? doth not he watch over it night and day, that none hurt it, and water
+<pb n="109" facs="tcp:107901:56"/>
+it in the proper ſeaſons? O, who can utter the Goodneſs and Glory of the Lord which is reveal<g ref="char:EOLhyphen"/>ed and ſhines here!</p>
+               <p>
+                  <hi>Rev.</hi> 3.20. <hi>Behold, I ſtand at the door, and knock: if any man hear my voice, and open the door, I will come in to him, and will ſup with him, and he with me.</hi> Here are ſeveral things, which in their order and ſeaſons, the living come to a certain and ſenſible experience of. As firſt, Chriſts ſtanding at the door and knocking. What is the door at which he ſtands? and how doth he knock? How doth the contrary Spirit knock? how doth his Spirit knock? Secondly, What is his Voice? and how is his Voice heard? To hear Wiſdoms cry within, in the inward ſtreets; his call at the door, at which he would enter: Muſt not the true ear in ſome meaſure be opened firſt? Can any one hear without an ear? Thirdly, What it is to open the door? there is a door-keepers ſtate to be witneſſed and the right door-keeper knows how to open and how to ſhut the door, and is exerciſed in opening and ſhut<g ref="char:EOLhyphen"/>ting the door. The King of glory is to be open<g ref="char:EOLhyphen"/>ed to and let in: but no wolf, no ſtranger, no ſtrange Spirit is to be hearkned or opened to. Fourthly, What Chriſt's coming in is at the door opened to him? When he knocks, would he not come in? Would he ſtand alwayes at the door knocking? Nay, nay; when the door is opened, at which he knocks, he who is the Re<g ref="char:EOLhyphen"/>ſurrection
+<pb n="110" facs="tcp:107901:57"/>
+and the Life enters, the King of Righ<g ref="char:EOLhyphen"/>teouſneſs, the King of Peace enters; he who is the Wiſdom and Power of God enters: and what becomes of the Power and Goods of the enemy then? Doth he not kill and deſtroy them? doth he not conſume and devour them? Doth he not empty the Houſe of them, and gar<g ref="char:EOLhyphen"/>niſh the houſe with that which is truly pure, glorious and beautiful? Laſtly, what is it to have him ſup with the ſoul, and what is it for the Soul to ſup with him? Is not here eating and drinking in his Fathers Kingdom? Doth he not firſt deſtroy the Devils Kingdom, and then ſet up his own Kingdom? and doth he not feaſt with the ſoul, and feaſt the Soul in the Kingdom which he ſets up there? O that all men knew how near he, who is eternal Life, is to them: Doth not God ſearch the heart? Is not he near the heart? doth not his Light ſhine there, in the midſt of mans darkneſs and corruption? doth not his Power reach thither, and aſſault and trouble the enemy? doth not his pure Love, wherewith he loveth man, pierce thither? Doth he not knock? doth he not call? Doth he not touch? doth he not draw? doth he not give, at times, ſome living tender ſenſe to many hearts, who too much neglect and deſ<g ref="char:EOLhyphen"/>piſe him, and regard not the day of his tender viſiting them and calling after them? O how is the Love of God, the Spirit of God, the Life
+<pb n="111" facs="tcp:107901:57"/>
+of God, the Wiſdom of God, the Power of God, the drawings and inſtructions of his Grace, day by day, reſiſted by the Wiſdom and Will of the fleſh, in thoſe that are born thereof and hearken thereto; and ſo live after the fleſh, and not after that which reproves the fleſh.</p>
+               <p>Many more Scriptures might be mentioned, and alſo ſenſibly and livingly witneſſed to: but theſe are enough to give a taſte. The Lord open mens underſtandings into the thing it ſelf, and give them the key which opens into the truth, e<g ref="char:EOLhyphen"/>ven into the myſtery thereof, wherein is the hid<g ref="char:EOLhyphen"/>den Life and Vertue. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>A few words Concerning the true Chriſt, how it may be certainly and infallibly know which is he.</head>
+               <p>This Queſtion relates not to his outward ap<g ref="char:EOLhyphen"/>pearance in the dayes of his fleſh: but to his in<g ref="char:EOLhyphen"/>ward and ſpiritual appearance, how it may be known? To which the Anſwer on my heart is, Even after the ſame way, and by the ſame means is he to be known in his inward appearance, as he was known in his outward: which was, by the revealing of the Father. For <hi>none knows the Son, but the Father; and he to whom the Father reveals him.</hi> And when Simon Peter confeſſed him to be Chriſt the Son of the living God, <hi>Bleſ<g ref="char:EOLhyphen"/>ſed,</hi>
+                  <pb n="112" facs="tcp:107901:58"/>
+ſaid he, <hi>art thou Simon Bar-Jona: for fleſh and bloud hath not revealed it unto thee, but my Father which is in Heaven,</hi> Mat. 16. verſ. 16, 17. And if none could know Chriſt in his ap<g ref="char:EOLhyphen"/>pearance in fleſh, notwithſtanding ſo many ma<g ref="char:EOLhyphen"/>nifeſt and expreſs Propheſie concerning him, but ſuch only to whom the Father revealed him: how ſhall any know his inward and ſpiritual ap<g ref="char:EOLhyphen"/>pearance; unleſs they be taught of the Father and hear and learn of him ſo to do?</p>
+               <p>But more particularly to ſhew how the Fa<g ref="char:EOLhyphen"/>ther revealed his Son, and how they came to know in that day, that he was the Son of the living God, the holy one, the anointed Saviour, and that the ſame way, and by the ſame means, people than will truly know him, muſt come to the knowledg of him now.</p>
+               <p>Firſt, They came to know him, by the mani<g ref="char:EOLhyphen"/>feſtation of the Life that was in him, by the fulneſs of the Grace and Truth which dwelt in him, and put it ſelf forth, ſo as to be diſcerned by the inward and ſpiritual eye in them. <hi>For the Life was manifeſted,</hi> 1 Joh. 1.2. The Life which was in him, was manifeſted to the Spiri<g ref="char:EOLhyphen"/>tual eye which was in them: and thus they came to know him.</p>
+               <p>Secondly, By his voice and knocks. Thus ſaid he concerning his ſheep in thoſe days, that they know his voice, <hi>Joh.</hi> 10.4. Oh, he hath ſuch a voice, as none hath but he. He
+<pb n="113" facs="tcp:107901:58"/>
+ſpeaks in his Father's authority (not as the Scribes, not as earthly wiſe, learned men) he ſpeaks in the evidence and demonſtration of God's Spirit. The words which he ſpeaks, are Spirit and Life. They that hear his voice, live. And when he ſtands at the door and knocks, he pierceth deep. O the beatings of his hand upon the render and ſenſible hearts and conſciences. O, his ſecret reproofs, his ſecret inſtructions, his ſecret quicknings and enlight<g ref="char:EOLhyphen"/>enings; how did they, and how do they eter<g ref="char:EOLhyphen"/>nally make him manifeſt in the hearts and conſciences of his!</p>
+               <p>Thirdly, By his Baptiſm, or by his baptiz<g ref="char:EOLhyphen"/>ing into his own Spirit and Power. While people were in expectation, and muſed in their hearts of <hi>John,</hi> whether he were the Chriſt or not: <hi>John</hi> anſwers the caſe, and tells them, how they might diſcern and know the true Chriſt. It is not I, who baptize with water: but he that baptizeth <hi>with the Holy Ghoſt, and with fire: whoſe fan is in his hand</hi> &amp;c. Luk. 3.15, 16.17. Was not this then, and is not this now the way to know the true Chriſt? He that know<g ref="char:EOLhyphen"/>eth him who inwardly and ſpiritually baptizeth, him who hath the fan, who inwardly fanneth and purgeth the Floor, gathering in the Wheat, and burning up the chaff doth not he inward<g ref="char:EOLhyphen"/>ly, truly and Spiritually know Chriſt? He that knoweth the Word which is quick and pow<g ref="char:EOLhyphen"/>erful
+<pb n="114" facs="tcp:107901:59"/>
+and ſharper than any two-edged ſword, piercing even to the dividing aſunder of Soul &amp; Spirit, &amp; of the joints and marrow, and is a diſ<g ref="char:EOLhyphen"/>cerner of the thoughts and intents of the heart: doth not he know <hi>the word which was in the be<g ref="char:EOLhyphen"/>ginning, which was with God,</hi> yea which <hi>was God:</hi> for he is the only ſearcher of the heart, and trier of the reins.</p>
+               <p>Fourthly, By his mighty works. <hi>The works which the Father hath given me to finiſh, the ſame works that I do, bear witneſs of me, that the Father hath ſent me,</hi> Joh. 5.36. And when <hi>John</hi> ſent two of his diſciples to Jeſus, with this queſtion, <hi>Art thou he that ſhould come, or look we for another?</hi> Chriſt bids them go and tel <hi>John</hi> what things they had ſeen and heard, <hi>how that the Blind ſee, the Lame walk, the Lepers are Cleanſed, the Deaf hear, the Dead are rai<g ref="char:EOLhyphen"/>ſed, to the poor the Goſpel is Preached, and bleſ<g ref="char:EOLhyphen"/>ſed is he whoſoever ſhall not be offended in me,</hi> Luke. 7.22, 23. <hi>Why herein is a marvelous thing</hi> ſaid the blind man, <hi>that ye know not from whence he is, and yet he hath opened my eyes,</hi> Joh. 9.30. He who hath the power, and putteth forth the power inwardly, who openeth the inward eye, the inward ear, looſeth the inward tongue, cauſeth the inward feet to walk in the way of Life, and the inward hands to work the works of God; he is the Meſſiah, the Saviour, the word of Life, the Son of the Living God.
+<pb n="115" facs="tcp:107901:59"/>
+They that believe in him, in his Spirit, in his Power, in his inward appearance, have the wit<g ref="char:EOLhyphen"/>neſs in themſelves, the living teſtimony, which none can put out or take away from them. He hath opened mine eyes, he hath opened my heart, he hath raiſed me out of the grave, he hath given me eternal Life. He hath changed me in<g ref="char:EOLhyphen"/>wardly, created me inwardly, by the working of his mighty power, and I daily live, am pre<g ref="char:EOLhyphen"/>ſerved and grow by the ſame power. I feel his Life, his vertue, his power, his preſence day by day. He is with me, he lives in me: and I live not of my ſelf, but by feeling him to live in me, finding life ſpring up from him into me and through me; and therein lies all my ability and ſtrength for evermore.</p>
+            </div>
+            <div type="part">
+               <head>A few words, in the Bowels of tender Love and Good Will to my Native Country.</head>
+               <p>It is written, <hi>When thy judgments are in the earth, the inhabitants of the World ſhall learn Righteouſneſs.</hi> O that this might be verified concerning thee, O England, even that thou mighteſt learn Righteouſneſs, and that the dayes of thy unrighteouſneſs might come to an end! Have not God's judgments been upon thee? Yea, are not God's Judgments ſtill upon thee?
+<pb n="116" facs="tcp:107901:60"/>
+And can any thing divert them from coming more upon thee, but thy ſpeedy returning un<g ref="char:EOLhyphen"/>to the Lord in breaking off thy ſins by unfeign<g ref="char:EOLhyphen"/>ed Repentance? O that thou mighteſt be ſen<g ref="char:EOLhyphen"/>ſible of the hand of the Lord, and mighteſt hear the Rod, and him who hath appointed it. The Lord hath power over all Nations, and can break them in peices as a Potters Veſſel. They are but as the drop of a Bucket, as the ſmall duſt of the Ballance: they are before him as nothing, and are counted to him leſs than nothing and vanity. Read <hi>Iſa.</hi> 24. See how God will plead with Nations, and conſider whether he be not dealing thus with thee? O hath not that been found in thee, and is not that found in thee, which provoketh the Lord exceedingly? O that the weighty ſenſe of thy ſins were upon thee, and that thou mighteſt truly repent and turn from them<g ref="char:punc">▪</g> that thou mighteſt reap the benefit of God's Judgments, and learn Righteouſneſs; and his Indignation might be removed from thee, and his tender Bowels of compaſſion move towards thee!</p>
+               <p>But perhaps ſome may ſay, <hi>What is the Righteouſneſs we ſhould learn?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> O learn to know God, that is a righ<g ref="char:EOLhyphen"/>teous thing. Learn to fear God. Learn to wor<g ref="char:EOLhyphen"/>ſhip him aright. How is that? Why, in his
+<pb n="117" facs="tcp:107901:60"/>
+own Spirit and Truth, in which he ſeeks to be worſhiped. Learn Humility towards God: learn Juſtice and Mercy towards Men. Learn to love thy Enemies. If ye will be Chriſtians, that is the Law of Chriſt. But that which is called the Chriſtian world, many of them have not yet learned ſo much as to love their Friends, but hate and perſecute ſuch as fear the Lord, and ſeek their good, and ſtand in the gap to keep back the Wrath of the Lord, from break<g ref="char:EOLhyphen"/>ing in upon them, and are wreſtling mightily with him, with ſtrong cries that he would ſtay the ſharpneſs thereof, that it might not break forth to their deſtruction. Learn to do to o<g ref="char:EOLhyphen"/>thers, as ye would be done to. Do not do to any becauſe of their Religion and tender Conſci<g ref="char:EOLhyphen"/>ences towards the Lord, what ye would not have done to your ſelves becauſe of your Reli<g ref="char:EOLhyphen"/>gion. How long will it be, ere ye learn this! how many Judgments and Diſtreſſes ſhall come upon you, before ye bow in Spirit under the mighty hand of God, and yield your ſelves, in ſubmiſſion to him, to learn things of him.</p>
+               <p>Queſt. <hi>But how ſhall we learn Righte<g ref="char:EOLhyphen"/>ouſneſs?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> Retire inwardly to that, and harken inwardly to that which gives the ſence of Judg<g ref="char:EOLhyphen"/>ments, and learn of that; and that will wean
+<pb n="118" facs="tcp:107901:61"/>
+you inwardly from all your unrighteouſneſs, and teach you Righteouſneſs. There is that in<g ref="char:EOLhyphen"/>wardly in the unregenerate, which hardens and miſleads: there is alſo that inwardly which tenders, melts, teacheth and leadeth aright; as it is believed in and obeyed. O that men knew the difference between theſe two, and how to turn from the one to the other. For out of the heart proceeds all that is evil and vain: and out of the heart are the iſſues of Life alſo. The well or puddle of the muddy Waters, of the Waters of <hi>Egypt,</hi> of the Wine of <hi>Sodom,</hi> and Waters of <hi>Babylon</hi> is there: and the Well and Ciſtern of the pure Waters is there alſo. O my native Country, that thou mighteſt be the firſt Nation, in this age of the World that might paſs through the judgments of God, and be cleanſed thereby and be happy? O that thy Rulers and Governors were weaned from the ſpirit and wiſdom of this World, and might re<g ref="char:EOLhyphen"/>ceive of God's holy Spirit and Wiſdom, and Judge and Govern themſelves and the people thereby! When the Jew outward was choſen to be the people of God, did not he pour out of his Spirit to govern them by? Were the Judges, Kings and Leaders thereof, only anoint<g ref="char:EOLhyphen"/>ed with outward Oyl? were they not alſo anointed with God's Spirit? And can any Chriſtian Magiſtrate govern aright any Chri<g ref="char:EOLhyphen"/>ſtian Nation, without the aſſiſtance and gui<g ref="char:EOLhyphen"/>dance
+<pb n="119" facs="tcp:107901:61"/>
+of the ſame Spirit? And O that all the people were anointed alſo, that they might be inwardly Kings and Prieſts to the Lord, and the Kingdom of Chriſt might be inwardly ſet up in all their hearts, and every man might reign in and through him, over the enemies of his own ſoul! O that the Power and Glory of the Lord might cover thy Governors and Inha<g ref="char:EOLhyphen"/>bitants, O England! O the prayers that have been long put up, in bowels of tenderneſs for thee! O the beſome of the Lord, the beſome of his Righteous Judgments, that it might ſweep the hearts of men inwardly, that this Nation might be prepared for the Glory of the Lord (for the Glory which he reveals in his Heavenly birth) to break forth outwardly, to the admi<g ref="char:EOLhyphen"/>ration and magnifying of the work of his Po<g ref="char:EOLhyphen"/>wer, in the eyes of all beholders, <hi>Amen, Amen.</hi>
+               </p>
+            </div>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="table_of_contents">
+            <pb facs="tcp:107901:62"/>
+            <head>A Brief TABLE of the CONTENTS.</head>
+            <list>
+               <item>
+                  <hi>1.</hi> COncerning underſtanding the Scriptures, <hi>Page 11</hi>
+               </item>
+               <item>
+                  <hi>2.</hi> Concerning the illuminating and Sanctifying Spirit, <hi>Page 12</hi>
+               </item>
+               <item>
+                  <hi>3.</hi> Concerning the Spirit of God, and the Scriptures, <hi>Page 13</hi>
+               </item>
+               <item>
+                  <hi>4.</hi> Concerning the perfect and conver<g ref="char:EOLhyphen"/>ting Law of God, <hi>Page 14</hi>
+               </item>
+               <item>
+                  <hi>5.</hi> Concerning David's Longings, <hi>Page 15</hi>
+               </item>
+               <item>
+                  <hi>6.</hi> Concerning the Spiritual Sun, <hi>Page 16</hi>
+               </item>
+               <item>
+                  <hi>7.</hi> Concerning the Words being a fire and hammer; <hi>Page 17</hi>
+               </item>
+               <item>
+                  <hi>8.</hi> Concerning God's writing his Law in the heart, <hi>Page 18</hi>
+               </item>
+               <item>
+                  <hi>9.</hi> Concerning the inward Light of God's Spirit, <hi>Page 19</hi>
+               </item>
+               <item>
+                  <hi>10.</hi> Concerning the Goſpel-Miniſters and Miniſtry, <hi>Page 20</hi>
+               </item>
+               <item>
+                  <hi>11.</hi> Concerning trying of Spirits, &amp;c. <hi>Page 22</hi>
+               </item>
+               <item>
+                  <pb facs="tcp:107901:62"/>
+                  <hi>12.</hi> Concerning things neceſſary to Salvation, <hi>Page 23</hi>
+               </item>
+               <item>
+                  <hi>13.</hi> Concerning the True Goſpel-Church, <hi>Page 24</hi>
+               </item>
+               <item>
+                  <hi>14.</hi> Concerning the way to Salvation, <hi>Page 25</hi>
+               </item>
+               <item>
+                  <hi>15.</hi> Concerning Chriſts ſaving the Soul, <hi>Page 26</hi>
+               </item>
+               <item>
+                  <hi>16.</hi> Concerning Regeneration, <hi>Page 27</hi>
+               </item>
+               <item>
+                  <hi>17.</hi> Concerning true Holineſs, <hi>ibid.</hi>
+               </item>
+               <item>
+                  <hi>18.</hi> Concerning Chriſts works, <hi>Page 28</hi>
+               </item>
+               <item>
+                  <hi>19.</hi> Concerning the Yoke or Croſs of Chriſt, <hi>Page 29</hi>
+               </item>
+               <item>
+                  <hi>20.</hi> Concerning making our Calling and Election ſure, <hi>ibid</hi>
+               </item>
+               <item>
+                  <hi>21.</hi> Concerning Prayer, <hi>Page 31</hi>
+               </item>
+               <item>
+                  <hi>22.</hi> Concerning Repentance, <hi>Page 32</hi>
+               </item>
+               <item>
+                  <hi>23.</hi> Concerning Faith, <hi>Page 33</hi>
+               </item>
+               <item>
+                  <hi>24.</hi> Concerning Obedience, <hi>Page 34</hi>
+               </item>
+               <item>
+                  <hi>25.</hi> Concerning Juſtification, <hi>Page 35</hi>
+               </item>
+               <item>
+                  <hi>26.</hi> Concerning good Works, <hi>Page 37</hi>
+               </item>
+               <item>
+                  <hi>27.</hi> Concerning Love, <hi>Page 38</hi>
+               </item>
+               <item>
+                  <hi>28.</hi> Concerning Meekneſs and Pati<g ref="char:EOLhyphen"/>ence, <hi>Page 39</hi>
+               </item>
+               <item>
+                  <hi>29.</hi> Concerning the knowledg of the new Covenant, <hi>Page 40</hi>
+               </item>
+               <item>
+                  <pb facs="tcp:107901:63"/>
+                  <hi>30.</hi> Concerning the Fear of the new Covenant, <hi>Page 42</hi>
+               </item>
+               <item>
+                  <hi>31.</hi> Concerning Hope, <hi>Page 43</hi>
+               </item>
+               <item>
+                  <hi>32.</hi> Concerning Peace, <hi>Page 44</hi>
+               </item>
+               <item>
+                  <hi>33</hi> Concerning Joy, <hi>Page 45</hi>
+               </item>
+               <item>
+                  <hi>34.</hi> Concerning Poverty of Spirit and Humility, <hi>Page 46</hi>
+               </item>
+               <item>The Concluſion, <hi>Page 49</hi>
+               </item>
+            </list>
+            <list>
+               <head>EXPERIENCES.</head>
+               <item>
+                  <hi>1.</hi> Concerning the Seed of the King<g ref="char:EOLhyphen"/>dom, <hi>Page 57</hi>
+               </item>
+               <item>
+                  <hi>2.</hi> Concerning the Souls food, <hi>Page 58</hi>
+               </item>
+               <item>
+                  <hi>3.</hi> Concerning Gods power, <hi>Page 59</hi>
+               </item>
+               <item>
+                  <hi>4.</hi> Concerning Temptations, <hi>Page 60</hi>
+               </item>
+               <item>
+                  <hi>5.</hi> Concerning Prayer, <hi>Page 62</hi>
+               </item>
+               <item>
+                  <hi>6.</hi> Concerning Juſtification and San<g ref="char:EOLhyphen"/>ctification, <hi>Page 63</hi>
+               </item>
+               <item>
+                  <hi>7.</hi> Concerning Faith, <hi>Page 67</hi>
+               </item>
+               <item>
+                  <hi>8.</hi> Concerning Obedience, <hi>Page 71</hi>
+               </item>
+               <item>
+                  <hi>9.</hi> Concerning the Croſs of Christ, <hi>Page 74</hi>
+               </item>
+               <item>
+                  <hi>10.</hi> Concerning the Myſtery, <hi>Page 77</hi>
+               </item>
+               <item>
+                  <hi>11.</hi> Right judging experienced, <hi>Page 80</hi>
+               </item>
+               <item>
+                  <pb facs="tcp:107901:63"/>
+                  <hi>12.</hi> About knowing God's Spirit, <hi>Page 84</hi>
+               </item>
+               <item>
+                  <hi>13.</hi> Queries concerning the Seed of the Kingdom, <hi>Page 85</hi>
+               </item>
+               <item>
+                  <hi>14.</hi> Poſtcript to the experiences, <hi>Page 91</hi>
+               </item>
+               <item>Some Scriptures very ſweet, &amp;c. <hi>Page 93</hi>
+               </item>
+               <item>A few words Concerning the true Chriſt, <hi>Page 111</hi>
+               </item>
+               <item>A few words to my native Country, <hi>Page 115</hi>
+               </item>
+            </list>
+         </div>
+         <div type="errata">
+            <pb facs="tcp:107901:64"/>
+            <head>ERRATA.</head>
+            <p>THe Stops have been much miſplaced, and many left out, which the <hi>Reader</hi> is deſired by his care<g ref="char:EOLhyphen"/>ful obſervation of the matter to ſupply the defect herein. Some Errors which alter or may hinder the un<g ref="char:EOLhyphen"/>derſtanding of the ſenſe are here taken notice of.</p>
+            <p>PAg. 6. lin. 6. read <hi>thoſe.</hi> l. 14. r. <hi>grow.</hi> P. 16. l. 3. f. <hi>they,</hi> r. <hi>thy.</hi> P. 22. l. 8. r. <hi>and the life.</hi> P. 24. l. 20. r. <hi>meet together.</hi> P. 27. l. 3. Blot out the firſt <hi>the.</hi> P. 54. l. 21. r. <hi>and experience.</hi> P. 55. l. 16. r. <hi>to cure every Sickneſs.</hi> P. 57. l. 17. r. <hi>Warring againſt them.</hi> P. 61. l. 16. r. <hi>in the patience.</hi> P. 64. l. 13. blot out the word <hi>for.</hi> P. 68. l. 14. r. <hi>from:</hi> P. 73. l. 8. <hi>Lord and Maſter.</hi> P. 74. l 7. r. <hi>producing.</hi> l. 17. r. <hi>hath this power.</hi> P. 83. l. 12. r. <hi>bring.</hi>
+            </p>
+            <p>Through the miſunderſtanding of the Printer, the Titles over the pages belonging to that part of the Book cal<g ref="char:EOLhyphen"/>led <hi>Experiences,</hi> were omitted, and the Title belonging to the following part, put in heir ſtead, which the Reader is deſired thus to amend.</p>
+            <list>
+               <item>
+                  <hi>Experiences,</hi> pag. 57 to p. 63.</item>
+               <item>
+                  <hi>Concerning Juſtification and Sanctification,</hi> p. 63 to 67.</item>
+               <item>
+                  <hi>Experiences concerning Faith,</hi> p. 67 to 71.</item>
+               <item>
+                  <hi>Experiences concerning Obedience,</hi> p. 71 to 74.</item>
+               <item>
+                  <hi>The Croſs of Chriſt experienced,</hi> p. 74 to 77.</item>
+               <item>
+                  <hi>The Myſtery experienced.</hi> p. 77 to 80.</item>
+               <item>
+                  <hi>Right Judging experienced.</hi> p. 80 to 84.</item>
+               <item>
+                  <hi>How to know God's Spirit.</hi> p. 84.</item>
+               <item>
+                  <hi>Experimental Queries,</hi> p. 85 to 90.</item>
+               <item>
+                  <hi>How to know the Seed.</hi>
+               </item>
+               <item>
+                  <hi>A ſerious Examination.</hi>
+               </item>
+               <item>
+                  <hi>A Poſtſcript to the Experiences,</hi> p. 91 to 93.</item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>
